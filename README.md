@@ -1,1 +1,2 @@
 # gaussianGraph
+example and practise
