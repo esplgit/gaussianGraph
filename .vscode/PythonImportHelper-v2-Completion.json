@@ -1,0 +1,3343 @@
+[
+    {
+        "label": "matplotlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "pyplot",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "pyplot",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "pyplot",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "pyplot",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "notebook",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "notebook",
+        "description": "notebook",
+        "detail": "notebook",
+        "documentation": {}
+    },
+    {
+        "label": "data",
+        "importPath": "pydataset",
+        "description": "pydataset",
+        "isExtraImport": true,
+        "detail": "pydataset",
+        "documentation": {}
+    },
+    {
+        "label": "norm",
+        "importPath": "scipy.stats",
+        "description": "scipy.stats",
+        "isExtraImport": true,
+        "detail": "scipy.stats",
+        "documentation": {}
+    },
+    {
+        "label": "norm",
+        "importPath": "scipy.stats",
+        "description": "scipy.stats",
+        "isExtraImport": true,
+        "detail": "scipy.stats",
+        "documentation": {}
+    },
+    {
+        "label": "norm",
+        "importPath": "scipy.stats",
+        "description": "scipy.stats",
+        "isExtraImport": true,
+        "detail": "scipy.stats",
+        "documentation": {}
+    },
+    {
+        "label": "norm",
+        "importPath": "scipy.stats",
+        "description": "scipy.stats",
+        "isExtraImport": true,
+        "detail": "scipy.stats",
+        "documentation": {}
+    },
+    {
+        "label": "norm",
+        "importPath": "scipy.stats",
+        "description": "scipy.stats",
+        "isExtraImport": true,
+        "detail": "scipy.stats",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "importPath": "numpy",
+        "description": "numpy",
+        "isExtraImport": true,
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "getopt",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "getopt",
+        "description": "getopt",
+        "detail": "getopt",
+        "documentation": {}
+    },
+    {
+        "label": "shutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shutil",
+        "description": "shutil",
+        "detail": "shutil",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "FileReader",
+        "importPath": "pysmi.reader",
+        "description": "pysmi.reader",
+        "isExtraImport": true,
+        "detail": "pysmi.reader",
+        "documentation": {}
+    },
+    {
+        "label": "getReadersFromUrls",
+        "importPath": "pysmi.reader",
+        "description": "pysmi.reader",
+        "isExtraImport": true,
+        "detail": "pysmi.reader",
+        "documentation": {}
+    },
+    {
+        "label": "getReadersFromUrls",
+        "importPath": "pysmi.reader",
+        "description": "pysmi.reader",
+        "isExtraImport": true,
+        "detail": "pysmi.reader",
+        "documentation": {}
+    },
+    {
+        "label": "CallbackWriter",
+        "importPath": "pysmi.writer",
+        "description": "pysmi.writer",
+        "isExtraImport": true,
+        "detail": "pysmi.writer",
+        "documentation": {}
+    },
+    {
+        "label": "PyFileWriter",
+        "importPath": "pysmi.writer",
+        "description": "pysmi.writer",
+        "isExtraImport": true,
+        "detail": "pysmi.writer",
+        "documentation": {}
+    },
+    {
+        "label": "FileWriter",
+        "importPath": "pysmi.writer",
+        "description": "pysmi.writer",
+        "isExtraImport": true,
+        "detail": "pysmi.writer",
+        "documentation": {}
+    },
+    {
+        "label": "CallbackWriter",
+        "importPath": "pysmi.writer",
+        "description": "pysmi.writer",
+        "isExtraImport": true,
+        "detail": "pysmi.writer",
+        "documentation": {}
+    },
+    {
+        "label": "SmiV1CompatParser",
+        "importPath": "pysmi.parser",
+        "description": "pysmi.parser",
+        "isExtraImport": true,
+        "detail": "pysmi.parser",
+        "documentation": {}
+    },
+    {
+        "label": "SmiV1CompatParser",
+        "importPath": "pysmi.parser",
+        "description": "pysmi.parser",
+        "isExtraImport": true,
+        "detail": "pysmi.parser",
+        "documentation": {}
+    },
+    {
+        "label": "JsonCodeGen",
+        "importPath": "pysmi.codegen",
+        "description": "pysmi.codegen",
+        "isExtraImport": true,
+        "detail": "pysmi.codegen",
+        "documentation": {}
+    },
+    {
+        "label": "PySnmpCodeGen",
+        "importPath": "pysmi.codegen",
+        "description": "pysmi.codegen",
+        "isExtraImport": true,
+        "detail": "pysmi.codegen",
+        "documentation": {}
+    },
+    {
+        "label": "JsonCodeGen",
+        "importPath": "pysmi.codegen",
+        "description": "pysmi.codegen",
+        "isExtraImport": true,
+        "detail": "pysmi.codegen",
+        "documentation": {}
+    },
+    {
+        "label": "NullCodeGen",
+        "importPath": "pysmi.codegen",
+        "description": "pysmi.codegen",
+        "isExtraImport": true,
+        "detail": "pysmi.codegen",
+        "documentation": {}
+    },
+    {
+        "label": "MibCompiler",
+        "importPath": "pysmi.compiler",
+        "description": "pysmi.compiler",
+        "isExtraImport": true,
+        "detail": "pysmi.compiler",
+        "documentation": {}
+    },
+    {
+        "label": "MibCompiler",
+        "importPath": "pysmi.compiler",
+        "description": "pysmi.compiler",
+        "isExtraImport": true,
+        "detail": "pysmi.compiler",
+        "documentation": {}
+    },
+    {
+        "label": "debug",
+        "importPath": "pysmi",
+        "description": "pysmi",
+        "isExtraImport": true,
+        "detail": "pysmi",
+        "documentation": {}
+    },
+    {
+        "label": "error",
+        "importPath": "pysmi",
+        "description": "pysmi",
+        "isExtraImport": true,
+        "detail": "pysmi",
+        "documentation": {}
+    },
+    {
+        "label": "debug",
+        "importPath": "pysmi",
+        "description": "pysmi",
+        "isExtraImport": true,
+        "detail": "pysmi",
+        "documentation": {}
+    },
+    {
+        "label": "error",
+        "importPath": "pysmi",
+        "description": "pysmi",
+        "isExtraImport": true,
+        "detail": "pysmi",
+        "documentation": {}
+    },
+    {
+        "label": "AnyFileSearcher",
+        "importPath": "pysmi.searcher",
+        "description": "pysmi.searcher",
+        "isExtraImport": true,
+        "detail": "pysmi.searcher",
+        "documentation": {}
+    },
+    {
+        "label": "PyFileSearcher",
+        "importPath": "pysmi.searcher",
+        "description": "pysmi.searcher",
+        "isExtraImport": true,
+        "detail": "pysmi.searcher",
+        "documentation": {}
+    },
+    {
+        "label": "PyPackageSearcher",
+        "importPath": "pysmi.searcher",
+        "description": "pysmi.searcher",
+        "isExtraImport": true,
+        "detail": "pysmi.searcher",
+        "documentation": {}
+    },
+    {
+        "label": "StubSearcher",
+        "importPath": "pysmi.searcher",
+        "description": "pysmi.searcher",
+        "isExtraImport": true,
+        "detail": "pysmi.searcher",
+        "documentation": {}
+    },
+    {
+        "label": "AnyFileBorrower",
+        "importPath": "pysmi.borrower",
+        "description": "pysmi.borrower",
+        "isExtraImport": true,
+        "detail": "pysmi.borrower",
+        "documentation": {}
+    },
+    {
+        "label": "PyFileBorrower",
+        "importPath": "pysmi.borrower",
+        "description": "pysmi.borrower",
+        "isExtraImport": true,
+        "detail": "pysmi.borrower",
+        "documentation": {}
+    },
+    {
+        "label": "pycurl",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pycurl",
+        "description": "pycurl",
+        "detail": "pycurl",
+        "documentation": {}
+    },
+    {
+        "label": "StringIO",
+        "importPath": "StringIO",
+        "description": "StringIO",
+        "isExtraImport": true,
+        "detail": "StringIO",
+        "documentation": {}
+    },
+    {
+        "label": "StringIO",
+        "importPath": "StringIO",
+        "description": "StringIO",
+        "isExtraImport": true,
+        "detail": "StringIO",
+        "documentation": {}
+    },
+    {
+        "label": "certifi",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "certifi",
+        "description": "certifi",
+        "detail": "certifi",
+        "documentation": {}
+    },
+    {
+        "label": "BytesIO",
+        "importPath": "io",
+        "description": "io",
+        "isExtraImport": true,
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "BytesIO",
+        "importPath": "io",
+        "description": "io",
+        "isExtraImport": true,
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "BytesIO",
+        "importPath": "io",
+        "description": "io",
+        "isExtraImport": true,
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "os,",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os.",
+        "description": "os.",
+        "detail": "os.",
+        "documentation": {}
+    },
+    {
+        "label": "sys,",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys.",
+        "description": "sys.",
+        "detail": "sys.",
+        "documentation": {}
+    },
+    {
+        "label": "pycurl,",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pycurl.",
+        "description": "pycurl.",
+        "detail": "pycurl.",
+        "documentation": {}
+    },
+    {
+        "label": "curl",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "curl",
+        "description": "curl",
+        "detail": "curl",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "seaborn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "seaborn",
+        "description": "seaborn",
+        "detail": "seaborn",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pylab",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pylab",
+        "description": "matplotlib.pylab",
+        "detail": "matplotlib.pylab",
+        "documentation": {}
+    },
+    {
+        "label": "statistics",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "statistics",
+        "description": "statistics",
+        "detail": "statistics",
+        "documentation": {}
+    },
+    {
+        "label": "glob",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "glob",
+        "description": "glob",
+        "detail": "glob",
+        "documentation": {}
+    },
+    {
+        "label": "iglob",
+        "importPath": "glob",
+        "description": "glob",
+        "isExtraImport": true,
+        "detail": "glob",
+        "documentation": {}
+    },
+    {
+        "label": "csv",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "csv",
+        "description": "csv",
+        "detail": "csv",
+        "documentation": {}
+    },
+    {
+        "label": "jsonfile_load",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "jsonfile_load",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "operator",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "operator",
+        "description": "operator",
+        "detail": "operator",
+        "documentation": {}
+    },
+    {
+        "label": "traceback",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "traceback",
+        "description": "traceback",
+        "detail": "traceback",
+        "documentation": {}
+    },
+    {
+        "label": "calendar",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "calendar",
+        "description": "calendar",
+        "detail": "calendar",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "smtplib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "smtplib",
+        "description": "smtplib",
+        "detail": "smtplib",
+        "documentation": {}
+    },
+    {
+        "label": "ssl",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "ssl",
+        "description": "ssl",
+        "detail": "ssl",
+        "documentation": {}
+    },
+    {
+        "label": "telnetlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "telnetlib",
+        "description": "telnetlib",
+        "detail": "telnetlib",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "encoders",
+        "importPath": "email",
+        "description": "email",
+        "isExtraImport": true,
+        "detail": "email",
+        "documentation": {}
+    },
+    {
+        "label": "MIMEBase",
+        "importPath": "email.mime.base",
+        "description": "email.mime.base",
+        "isExtraImport": true,
+        "detail": "email.mime.base",
+        "documentation": {}
+    },
+    {
+        "label": "MIMEMultipart",
+        "importPath": "email.mime.multipart",
+        "description": "email.mime.multipart",
+        "isExtraImport": true,
+        "detail": "email.mime.multipart",
+        "documentation": {}
+    },
+    {
+        "label": "MIMEText",
+        "importPath": "email.mime.text",
+        "description": "email.mime.text",
+        "isExtraImport": true,
+        "detail": "email.mime.text",
+        "documentation": {}
+    },
+    {
+        "label": "formatdate",
+        "importPath": "email.utils",
+        "description": "email.utils",
+        "isExtraImport": true,
+        "detail": "email.utils",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "paramiko",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "paramiko",
+        "description": "paramiko",
+        "detail": "paramiko",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "socket",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "socket",
+        "description": "socket",
+        "detail": "socket",
+        "documentation": {}
+    },
+    {
+        "label": "getMibRevision",
+        "kind": 2,
+        "importPath": "venv.bin.mibcopy",
+        "description": "venv.bin.mibcopy",
+        "peekOfCode": "def getMibRevision(mibDir, mibFile):\n    mibCompiler = MibCompiler(\n        mibParser,\n        codeGenerator,\n        fileWriter\n    )\n    mibCompiler.addSources(\n        FileReader(mibDir, recursive=False, ignoreErrors=ignoreErrorsFlag),\n        *getReadersFromUrls(*mibSources)\n    )",
+        "detail": "venv.bin.mibcopy",
+        "documentation": {}
+    },
+    {
+        "label": "shortenPath",
+        "kind": 2,
+        "importPath": "venv.bin.mibcopy",
+        "description": "venv.bin.mibcopy",
+        "peekOfCode": "def shortenPath(path, maxLength=45):\n    if len(path) > maxLength:\n        return '...' + path[-maxLength:]\n    else:\n        return path\nmibsSeen = mibsCopied = mibsFailed = 0\nmibsRevisions = {}\nfor srcDirectory in inputMibs:\n    if verboseFlag:\n        sys.stderr.write('Reading \"%s\"...\\r\\n' % srcDirectory)",
+        "detail": "venv.bin.mibcopy",
+        "documentation": {}
+    },
+    {
+        "label": "EX_OK",
+        "kind": 5,
+        "importPath": "venv.bin.mibcopy",
+        "description": "venv.bin.mibcopy",
+        "peekOfCode": "EX_OK = 0\nEX_USAGE = 64\nEX_SOFTWARE = 70\n# Defaults\nquietFlag = False\nverboseFlag = False\nmibSources = []\ndstDirectory = None\ncacheDirectory = ''\ndryrunFlag = False",
+        "detail": "venv.bin.mibcopy",
+        "documentation": {}
+    },
+    {
+        "label": "EX_USAGE",
+        "kind": 5,
+        "importPath": "venv.bin.mibcopy",
+        "description": "venv.bin.mibcopy",
+        "peekOfCode": "EX_USAGE = 64\nEX_SOFTWARE = 70\n# Defaults\nquietFlag = False\nverboseFlag = False\nmibSources = []\ndstDirectory = None\ncacheDirectory = ''\ndryrunFlag = False\nignoreErrorsFlag = False",
+        "detail": "venv.bin.mibcopy",
+        "documentation": {}
+    },
+    {
+        "label": "EX_SOFTWARE",
+        "kind": 5,
+        "importPath": "venv.bin.mibcopy",
+        "description": "venv.bin.mibcopy",
+        "peekOfCode": "EX_SOFTWARE = 70\n# Defaults\nquietFlag = False\nverboseFlag = False\nmibSources = []\ndstDirectory = None\ncacheDirectory = ''\ndryrunFlag = False\nignoreErrorsFlag = False\nhelpMessage = \"\"\"\\",
+        "detail": "venv.bin.mibcopy",
+        "documentation": {}
+    },
+    {
+        "label": "quietFlag",
+        "kind": 5,
+        "importPath": "venv.bin.mibcopy",
+        "description": "venv.bin.mibcopy",
+        "peekOfCode": "quietFlag = False\nverboseFlag = False\nmibSources = []\ndstDirectory = None\ncacheDirectory = ''\ndryrunFlag = False\nignoreErrorsFlag = False\nhelpMessage = \"\"\"\\\nUsage: %s [--help]\n      [--version]",
+        "detail": "venv.bin.mibcopy",
+        "documentation": {}
+    },
+    {
+        "label": "verboseFlag",
+        "kind": 5,
+        "importPath": "venv.bin.mibcopy",
+        "description": "venv.bin.mibcopy",
+        "peekOfCode": "verboseFlag = False\nmibSources = []\ndstDirectory = None\ncacheDirectory = ''\ndryrunFlag = False\nignoreErrorsFlag = False\nhelpMessage = \"\"\"\\\nUsage: %s [--help]\n      [--version]\n      [--verbose]",
+        "detail": "venv.bin.mibcopy",
+        "documentation": {}
+    },
+    {
+        "label": "mibSources",
+        "kind": 5,
+        "importPath": "venv.bin.mibcopy",
+        "description": "venv.bin.mibcopy",
+        "peekOfCode": "mibSources = []\ndstDirectory = None\ncacheDirectory = ''\ndryrunFlag = False\nignoreErrorsFlag = False\nhelpMessage = \"\"\"\\\nUsage: %s [--help]\n      [--version]\n      [--verbose]\n      [--quiet]",
+        "detail": "venv.bin.mibcopy",
+        "documentation": {}
+    },
+    {
+        "label": "dstDirectory",
+        "kind": 5,
+        "importPath": "venv.bin.mibcopy",
+        "description": "venv.bin.mibcopy",
+        "peekOfCode": "dstDirectory = None\ncacheDirectory = ''\ndryrunFlag = False\nignoreErrorsFlag = False\nhelpMessage = \"\"\"\\\nUsage: %s [--help]\n      [--version]\n      [--verbose]\n      [--quiet]\n      [--debug=<%s>]",
+        "detail": "venv.bin.mibcopy",
+        "documentation": {}
+    },
+    {
+        "label": "cacheDirectory",
+        "kind": 5,
+        "importPath": "venv.bin.mibcopy",
+        "description": "venv.bin.mibcopy",
+        "peekOfCode": "cacheDirectory = ''\ndryrunFlag = False\nignoreErrorsFlag = False\nhelpMessage = \"\"\"\\\nUsage: %s [--help]\n      [--version]\n      [--verbose]\n      [--quiet]\n      [--debug=<%s>]\n      [--mib-source=<URI>]",
+        "detail": "venv.bin.mibcopy",
+        "documentation": {}
+    },
+    {
+        "label": "dryrunFlag",
+        "kind": 5,
+        "importPath": "venv.bin.mibcopy",
+        "description": "venv.bin.mibcopy",
+        "peekOfCode": "dryrunFlag = False\nignoreErrorsFlag = False\nhelpMessage = \"\"\"\\\nUsage: %s [--help]\n      [--version]\n      [--verbose]\n      [--quiet]\n      [--debug=<%s>]\n      [--mib-source=<URI>]\n      [--cache-directory=<DIRECTORY>]",
+        "detail": "venv.bin.mibcopy",
+        "documentation": {}
+    },
+    {
+        "label": "ignoreErrorsFlag",
+        "kind": 5,
+        "importPath": "venv.bin.mibcopy",
+        "description": "venv.bin.mibcopy",
+        "peekOfCode": "ignoreErrorsFlag = False\nhelpMessage = \"\"\"\\\nUsage: %s [--help]\n      [--version]\n      [--verbose]\n      [--quiet]\n      [--debug=<%s>]\n      [--mib-source=<URI>]\n      [--cache-directory=<DIRECTORY>]\n      [--ignore-errors]",
+        "detail": "venv.bin.mibcopy",
+        "documentation": {}
+    },
+    {
+        "label": "helpMessage",
+        "kind": 5,
+        "importPath": "venv.bin.mibcopy",
+        "description": "venv.bin.mibcopy",
+        "peekOfCode": "helpMessage = \"\"\"\\\nUsage: %s [--help]\n      [--version]\n      [--verbose]\n      [--quiet]\n      [--debug=<%s>]\n      [--mib-source=<URI>]\n      [--cache-directory=<DIRECTORY>]\n      [--ignore-errors]\n      [--dry-run]",
+        "detail": "venv.bin.mibcopy",
+        "documentation": {}
+    },
+    {
+        "label": "dstDirectory",
+        "kind": 5,
+        "importPath": "venv.bin.mibcopy",
+        "description": "venv.bin.mibcopy",
+        "peekOfCode": "dstDirectory = inputMibs.pop()\nif os.path.exists(dstDirectory) and not os.path.isdir(dstDirectory):\n    sys.stderr.write('ERROR: given destination is not a directory\\r\\n%s\\r\\n' % helpMessage)\n    sys.exit(EX_USAGE)\ntry:\n    os.makedirs(dstDirectory, mode=0o755)\nexcept OSError:\n    pass\n# Compiler infrastructure\ncodeGenerator = JsonCodeGen()",
+        "detail": "venv.bin.mibcopy",
+        "documentation": {}
+    },
+    {
+        "label": "codeGenerator",
+        "kind": 5,
+        "importPath": "venv.bin.mibcopy",
+        "description": "venv.bin.mibcopy",
+        "peekOfCode": "codeGenerator = JsonCodeGen()\nmibParser = SmiV1CompatParser(tempdir=cacheDirectory)\nfileWriter = CallbackWriter(lambda *x: None)\ndef getMibRevision(mibDir, mibFile):\n    mibCompiler = MibCompiler(\n        mibParser,\n        codeGenerator,\n        fileWriter\n    )\n    mibCompiler.addSources(",
+        "detail": "venv.bin.mibcopy",
+        "documentation": {}
+    },
+    {
+        "label": "mibParser",
+        "kind": 5,
+        "importPath": "venv.bin.mibcopy",
+        "description": "venv.bin.mibcopy",
+        "peekOfCode": "mibParser = SmiV1CompatParser(tempdir=cacheDirectory)\nfileWriter = CallbackWriter(lambda *x: None)\ndef getMibRevision(mibDir, mibFile):\n    mibCompiler = MibCompiler(\n        mibParser,\n        codeGenerator,\n        fileWriter\n    )\n    mibCompiler.addSources(\n        FileReader(mibDir, recursive=False, ignoreErrors=ignoreErrorsFlag),",
+        "detail": "venv.bin.mibcopy",
+        "documentation": {}
+    },
+    {
+        "label": "fileWriter",
+        "kind": 5,
+        "importPath": "venv.bin.mibcopy",
+        "description": "venv.bin.mibcopy",
+        "peekOfCode": "fileWriter = CallbackWriter(lambda *x: None)\ndef getMibRevision(mibDir, mibFile):\n    mibCompiler = MibCompiler(\n        mibParser,\n        codeGenerator,\n        fileWriter\n    )\n    mibCompiler.addSources(\n        FileReader(mibDir, recursive=False, ignoreErrors=ignoreErrorsFlag),\n        *getReadersFromUrls(*mibSources)",
+        "detail": "venv.bin.mibcopy",
+        "documentation": {}
+    },
+    {
+        "label": "mibsSeen",
+        "kind": 5,
+        "importPath": "venv.bin.mibcopy",
+        "description": "venv.bin.mibcopy",
+        "peekOfCode": "mibsSeen = mibsCopied = mibsFailed = 0\nmibsRevisions = {}\nfor srcDirectory in inputMibs:\n    if verboseFlag:\n        sys.stderr.write('Reading \"%s\"...\\r\\n' % srcDirectory)\n    if os.path.isfile(srcDirectory):\n        mibFiles = [(os.path.abspath(os.path.dirname(srcDirectory)), os.path.basename(srcDirectory))]\n    else:\n        mibFiles = [(os.path.abspath(dirName), mibFile)\n                    for dirName, _, mibFiles in os.walk(srcDirectory)",
+        "detail": "venv.bin.mibcopy",
+        "documentation": {}
+    },
+    {
+        "label": "mibsRevisions",
+        "kind": 5,
+        "importPath": "venv.bin.mibcopy",
+        "description": "venv.bin.mibcopy",
+        "peekOfCode": "mibsRevisions = {}\nfor srcDirectory in inputMibs:\n    if verboseFlag:\n        sys.stderr.write('Reading \"%s\"...\\r\\n' % srcDirectory)\n    if os.path.isfile(srcDirectory):\n        mibFiles = [(os.path.abspath(os.path.dirname(srcDirectory)), os.path.basename(srcDirectory))]\n    else:\n        mibFiles = [(os.path.abspath(dirName), mibFile)\n                    for dirName, _, mibFiles in os.walk(srcDirectory)\n                    for mibFile in mibFiles]",
+        "detail": "venv.bin.mibcopy",
+        "documentation": {}
+    },
+    {
+        "label": "EX_OK",
+        "kind": 5,
+        "importPath": "venv.bin.mibdump",
+        "description": "venv.bin.mibdump",
+        "peekOfCode": "EX_OK = 0\nEX_USAGE = 64\nEX_SOFTWARE = 70\nEX_MIB_MISSING = 79\nEX_MIB_FAILED = 79\n# Defaults\nverboseFlag = True\nmibSources = []\ndoFuzzyMatchingFlag = True\nmibSearchers = []",
+        "detail": "venv.bin.mibdump",
+        "documentation": {}
+    },
+    {
+        "label": "EX_USAGE",
+        "kind": 5,
+        "importPath": "venv.bin.mibdump",
+        "description": "venv.bin.mibdump",
+        "peekOfCode": "EX_USAGE = 64\nEX_SOFTWARE = 70\nEX_MIB_MISSING = 79\nEX_MIB_FAILED = 79\n# Defaults\nverboseFlag = True\nmibSources = []\ndoFuzzyMatchingFlag = True\nmibSearchers = []\nmibStubs = []",
+        "detail": "venv.bin.mibdump",
+        "documentation": {}
+    },
+    {
+        "label": "EX_SOFTWARE",
+        "kind": 5,
+        "importPath": "venv.bin.mibdump",
+        "description": "venv.bin.mibdump",
+        "peekOfCode": "EX_SOFTWARE = 70\nEX_MIB_MISSING = 79\nEX_MIB_FAILED = 79\n# Defaults\nverboseFlag = True\nmibSources = []\ndoFuzzyMatchingFlag = True\nmibSearchers = []\nmibStubs = []\nmibBorrowers = []",
+        "detail": "venv.bin.mibdump",
+        "documentation": {}
+    },
+    {
+        "label": "EX_MIB_MISSING",
+        "kind": 5,
+        "importPath": "venv.bin.mibdump",
+        "description": "venv.bin.mibdump",
+        "peekOfCode": "EX_MIB_MISSING = 79\nEX_MIB_FAILED = 79\n# Defaults\nverboseFlag = True\nmibSources = []\ndoFuzzyMatchingFlag = True\nmibSearchers = []\nmibStubs = []\nmibBorrowers = []\ndstFormat = None",
+        "detail": "venv.bin.mibdump",
+        "documentation": {}
+    },
+    {
+        "label": "EX_MIB_FAILED",
+        "kind": 5,
+        "importPath": "venv.bin.mibdump",
+        "description": "venv.bin.mibdump",
+        "peekOfCode": "EX_MIB_FAILED = 79\n# Defaults\nverboseFlag = True\nmibSources = []\ndoFuzzyMatchingFlag = True\nmibSearchers = []\nmibStubs = []\nmibBorrowers = []\ndstFormat = None\ndstDirectory = None",
+        "detail": "venv.bin.mibdump",
+        "documentation": {}
+    },
+    {
+        "label": "verboseFlag",
+        "kind": 5,
+        "importPath": "venv.bin.mibdump",
+        "description": "venv.bin.mibdump",
+        "peekOfCode": "verboseFlag = True\nmibSources = []\ndoFuzzyMatchingFlag = True\nmibSearchers = []\nmibStubs = []\nmibBorrowers = []\ndstFormat = None\ndstDirectory = None\ncacheDirectory = ''\nnodepsFlag = False",
+        "detail": "venv.bin.mibdump",
+        "documentation": {}
+    },
+    {
+        "label": "mibSources",
+        "kind": 5,
+        "importPath": "venv.bin.mibdump",
+        "description": "venv.bin.mibdump",
+        "peekOfCode": "mibSources = []\ndoFuzzyMatchingFlag = True\nmibSearchers = []\nmibStubs = []\nmibBorrowers = []\ndstFormat = None\ndstDirectory = None\ncacheDirectory = ''\nnodepsFlag = False\nrebuildFlag = False",
+        "detail": "venv.bin.mibdump",
+        "documentation": {}
+    },
+    {
+        "label": "doFuzzyMatchingFlag",
+        "kind": 5,
+        "importPath": "venv.bin.mibdump",
+        "description": "venv.bin.mibdump",
+        "peekOfCode": "doFuzzyMatchingFlag = True\nmibSearchers = []\nmibStubs = []\nmibBorrowers = []\ndstFormat = None\ndstDirectory = None\ncacheDirectory = ''\nnodepsFlag = False\nrebuildFlag = False\ndryrunFlag = False",
+        "detail": "venv.bin.mibdump",
+        "documentation": {}
+    },
+    {
+        "label": "mibSearchers",
+        "kind": 5,
+        "importPath": "venv.bin.mibdump",
+        "description": "venv.bin.mibdump",
+        "peekOfCode": "mibSearchers = []\nmibStubs = []\nmibBorrowers = []\ndstFormat = None\ndstDirectory = None\ncacheDirectory = ''\nnodepsFlag = False\nrebuildFlag = False\ndryrunFlag = False\ngenMibTextsFlag = False",
+        "detail": "venv.bin.mibdump",
+        "documentation": {}
+    },
+    {
+        "label": "mibStubs",
+        "kind": 5,
+        "importPath": "venv.bin.mibdump",
+        "description": "venv.bin.mibdump",
+        "peekOfCode": "mibStubs = []\nmibBorrowers = []\ndstFormat = None\ndstDirectory = None\ncacheDirectory = ''\nnodepsFlag = False\nrebuildFlag = False\ndryrunFlag = False\ngenMibTextsFlag = False\nkeepTextsLayout = False",
+        "detail": "venv.bin.mibdump",
+        "documentation": {}
+    },
+    {
+        "label": "mibBorrowers",
+        "kind": 5,
+        "importPath": "venv.bin.mibdump",
+        "description": "venv.bin.mibdump",
+        "peekOfCode": "mibBorrowers = []\ndstFormat = None\ndstDirectory = None\ncacheDirectory = ''\nnodepsFlag = False\nrebuildFlag = False\ndryrunFlag = False\ngenMibTextsFlag = False\nkeepTextsLayout = False\npyCompileFlag = True",
+        "detail": "venv.bin.mibdump",
+        "documentation": {}
+    },
+    {
+        "label": "dstFormat",
+        "kind": 5,
+        "importPath": "venv.bin.mibdump",
+        "description": "venv.bin.mibdump",
+        "peekOfCode": "dstFormat = None\ndstDirectory = None\ncacheDirectory = ''\nnodepsFlag = False\nrebuildFlag = False\ndryrunFlag = False\ngenMibTextsFlag = False\nkeepTextsLayout = False\npyCompileFlag = True\npyOptimizationLevel = 0",
+        "detail": "venv.bin.mibdump",
+        "documentation": {}
+    },
+    {
+        "label": "dstDirectory",
+        "kind": 5,
+        "importPath": "venv.bin.mibdump",
+        "description": "venv.bin.mibdump",
+        "peekOfCode": "dstDirectory = None\ncacheDirectory = ''\nnodepsFlag = False\nrebuildFlag = False\ndryrunFlag = False\ngenMibTextsFlag = False\nkeepTextsLayout = False\npyCompileFlag = True\npyOptimizationLevel = 0\nignoreErrorsFlag = False",
+        "detail": "venv.bin.mibdump",
+        "documentation": {}
+    },
+    {
+        "label": "cacheDirectory",
+        "kind": 5,
+        "importPath": "venv.bin.mibdump",
+        "description": "venv.bin.mibdump",
+        "peekOfCode": "cacheDirectory = ''\nnodepsFlag = False\nrebuildFlag = False\ndryrunFlag = False\ngenMibTextsFlag = False\nkeepTextsLayout = False\npyCompileFlag = True\npyOptimizationLevel = 0\nignoreErrorsFlag = False\nbuildIndexFlag = False",
+        "detail": "venv.bin.mibdump",
+        "documentation": {}
+    },
+    {
+        "label": "nodepsFlag",
+        "kind": 5,
+        "importPath": "venv.bin.mibdump",
+        "description": "venv.bin.mibdump",
+        "peekOfCode": "nodepsFlag = False\nrebuildFlag = False\ndryrunFlag = False\ngenMibTextsFlag = False\nkeepTextsLayout = False\npyCompileFlag = True\npyOptimizationLevel = 0\nignoreErrorsFlag = False\nbuildIndexFlag = False\nwriteMibsFlag = True",
+        "detail": "venv.bin.mibdump",
+        "documentation": {}
+    },
+    {
+        "label": "rebuildFlag",
+        "kind": 5,
+        "importPath": "venv.bin.mibdump",
+        "description": "venv.bin.mibdump",
+        "peekOfCode": "rebuildFlag = False\ndryrunFlag = False\ngenMibTextsFlag = False\nkeepTextsLayout = False\npyCompileFlag = True\npyOptimizationLevel = 0\nignoreErrorsFlag = False\nbuildIndexFlag = False\nwriteMibsFlag = True\nhelpMessage = \"\"\"\\",
+        "detail": "venv.bin.mibdump",
+        "documentation": {}
+    },
+    {
+        "label": "dryrunFlag",
+        "kind": 5,
+        "importPath": "venv.bin.mibdump",
+        "description": "venv.bin.mibdump",
+        "peekOfCode": "dryrunFlag = False\ngenMibTextsFlag = False\nkeepTextsLayout = False\npyCompileFlag = True\npyOptimizationLevel = 0\nignoreErrorsFlag = False\nbuildIndexFlag = False\nwriteMibsFlag = True\nhelpMessage = \"\"\"\\\nUsage: %s [--help]",
+        "detail": "venv.bin.mibdump",
+        "documentation": {}
+    },
+    {
+        "label": "genMibTextsFlag",
+        "kind": 5,
+        "importPath": "venv.bin.mibdump",
+        "description": "venv.bin.mibdump",
+        "peekOfCode": "genMibTextsFlag = False\nkeepTextsLayout = False\npyCompileFlag = True\npyOptimizationLevel = 0\nignoreErrorsFlag = False\nbuildIndexFlag = False\nwriteMibsFlag = True\nhelpMessage = \"\"\"\\\nUsage: %s [--help]\n      [--version]",
+        "detail": "venv.bin.mibdump",
+        "documentation": {}
+    },
+    {
+        "label": "keepTextsLayout",
+        "kind": 5,
+        "importPath": "venv.bin.mibdump",
+        "description": "venv.bin.mibdump",
+        "peekOfCode": "keepTextsLayout = False\npyCompileFlag = True\npyOptimizationLevel = 0\nignoreErrorsFlag = False\nbuildIndexFlag = False\nwriteMibsFlag = True\nhelpMessage = \"\"\"\\\nUsage: %s [--help]\n      [--version]\n      [--quiet]",
+        "detail": "venv.bin.mibdump",
+        "documentation": {}
+    },
+    {
+        "label": "pyCompileFlag",
+        "kind": 5,
+        "importPath": "venv.bin.mibdump",
+        "description": "venv.bin.mibdump",
+        "peekOfCode": "pyCompileFlag = True\npyOptimizationLevel = 0\nignoreErrorsFlag = False\nbuildIndexFlag = False\nwriteMibsFlag = True\nhelpMessage = \"\"\"\\\nUsage: %s [--help]\n      [--version]\n      [--quiet]\n      [--debug=<%s>]",
+        "detail": "venv.bin.mibdump",
+        "documentation": {}
+    },
+    {
+        "label": "pyOptimizationLevel",
+        "kind": 5,
+        "importPath": "venv.bin.mibdump",
+        "description": "venv.bin.mibdump",
+        "peekOfCode": "pyOptimizationLevel = 0\nignoreErrorsFlag = False\nbuildIndexFlag = False\nwriteMibsFlag = True\nhelpMessage = \"\"\"\\\nUsage: %s [--help]\n      [--version]\n      [--quiet]\n      [--debug=<%s>]\n      [--mib-source=<URI>]",
+        "detail": "venv.bin.mibdump",
+        "documentation": {}
+    },
+    {
+        "label": "ignoreErrorsFlag",
+        "kind": 5,
+        "importPath": "venv.bin.mibdump",
+        "description": "venv.bin.mibdump",
+        "peekOfCode": "ignoreErrorsFlag = False\nbuildIndexFlag = False\nwriteMibsFlag = True\nhelpMessage = \"\"\"\\\nUsage: %s [--help]\n      [--version]\n      [--quiet]\n      [--debug=<%s>]\n      [--mib-source=<URI>]\n      [--mib-searcher=<PATH|PACKAGE>]",
+        "detail": "venv.bin.mibdump",
+        "documentation": {}
+    },
+    {
+        "label": "buildIndexFlag",
+        "kind": 5,
+        "importPath": "venv.bin.mibdump",
+        "description": "venv.bin.mibdump",
+        "peekOfCode": "buildIndexFlag = False\nwriteMibsFlag = True\nhelpMessage = \"\"\"\\\nUsage: %s [--help]\n      [--version]\n      [--quiet]\n      [--debug=<%s>]\n      [--mib-source=<URI>]\n      [--mib-searcher=<PATH|PACKAGE>]\n      [--mib-stub=<MIB-NAME>]",
+        "detail": "venv.bin.mibdump",
+        "documentation": {}
+    },
+    {
+        "label": "writeMibsFlag",
+        "kind": 5,
+        "importPath": "venv.bin.mibdump",
+        "description": "venv.bin.mibdump",
+        "peekOfCode": "writeMibsFlag = True\nhelpMessage = \"\"\"\\\nUsage: %s [--help]\n      [--version]\n      [--quiet]\n      [--debug=<%s>]\n      [--mib-source=<URI>]\n      [--mib-searcher=<PATH|PACKAGE>]\n      [--mib-stub=<MIB-NAME>]\n      [--mib-borrower=<PATH>]",
+        "detail": "venv.bin.mibdump",
+        "documentation": {}
+    },
+    {
+        "label": "helpMessage",
+        "kind": 5,
+        "importPath": "venv.bin.mibdump",
+        "description": "venv.bin.mibdump",
+        "peekOfCode": "helpMessage = \"\"\"\\\nUsage: %s [--help]\n      [--version]\n      [--quiet]\n      [--debug=<%s>]\n      [--mib-source=<URI>]\n      [--mib-searcher=<PATH|PACKAGE>]\n      [--mib-stub=<MIB-NAME>]\n      [--mib-borrower=<PATH>]\n      [--destination-format=<FORMAT>]",
+        "detail": "venv.bin.mibdump",
+        "documentation": {}
+    },
+    {
+        "label": "mibCompiler",
+        "kind": 5,
+        "importPath": "venv.bin.mibdump",
+        "description": "venv.bin.mibdump",
+        "peekOfCode": "mibCompiler = MibCompiler(\n    SmiV1CompatParser(tempdir=cacheDirectory),\n    codeGenerator,\n    fileWriter\n)\ntry:\n    mibCompiler.addSources(\n        *getReadersFromUrls(\n            *mibSources, **dict(fuzzyMatching=doFuzzyMatchingFlag)\n        )",
+        "detail": "venv.bin.mibdump",
+        "documentation": {}
+    },
+    {
+        "label": "c",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.quickstart.file_upload_buffer",
+        "description": "venv.share.doc.pycurl.examples.quickstart.file_upload_buffer",
+        "peekOfCode": "c = pycurl.Curl()\nc.setopt(c.URL, 'https://httpbin.org/post')\nc.setopt(c.HTTPPOST, [\n    ('fileupload', (\n        c.FORM_BUFFER, 'readme.txt',\n        c.FORM_BUFFERPTR, 'This is a fancy readme file',\n    )),\n])\nc.perform()\nc.close()",
+        "detail": "venv.share.doc.pycurl.examples.quickstart.file_upload_buffer",
+        "documentation": {}
+    },
+    {
+        "label": "c",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.quickstart.file_upload_real",
+        "description": "venv.share.doc.pycurl.examples.quickstart.file_upload_real",
+        "peekOfCode": "c = pycurl.Curl()\nc.setopt(c.URL, 'https://httpbin.org/post')\nc.setopt(c.HTTPPOST, [\n    ('fileupload', (\n        # upload the contents of this file\n        c.FORM_FILE, __file__,\n    )),\n])\nc.perform()\nc.close()",
+        "detail": "venv.share.doc.pycurl.examples.quickstart.file_upload_real",
+        "documentation": {}
+    },
+    {
+        "label": "c",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.quickstart.file_upload_real_fancy",
+        "description": "venv.share.doc.pycurl.examples.quickstart.file_upload_real_fancy",
+        "peekOfCode": "c = pycurl.Curl()\nc.setopt(c.URL, 'https://httpbin.org/post')\nc.setopt(c.HTTPPOST, [\n    ('fileupload', (\n        # upload the contents of this file\n        c.FORM_FILE, __file__,\n        # specify a different file name for the upload\n        c.FORM_FILENAME, 'helloworld.py',\n        # specify a different content type\n        c.FORM_CONTENTTYPE, 'application/x-python',",
+        "detail": "venv.share.doc.pycurl.examples.quickstart.file_upload_real_fancy",
+        "documentation": {}
+    },
+    {
+        "label": "c",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.quickstart.follow_redirect",
+        "description": "venv.share.doc.pycurl.examples.quickstart.follow_redirect",
+        "peekOfCode": "c = pycurl.Curl()\n# Redirects to https://www.python.org/.\nc.setopt(c.URL, 'http://www.python.org/')\n# Follow redirect.\nc.setopt(c.FOLLOWLOCATION, True)\nc.perform()\nc.close()",
+        "detail": "venv.share.doc.pycurl.examples.quickstart.follow_redirect",
+        "documentation": {}
+    },
+    {
+        "label": "c",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.quickstart.form_post",
+        "description": "venv.share.doc.pycurl.examples.quickstart.form_post",
+        "peekOfCode": "c = pycurl.Curl()\nc.setopt(c.URL, 'https://httpbin.org/post')\npost_data = {'field': 'value'}\n# Form data must be provided already urlencoded.\npostfields = urlencode(post_data)\n# Sets request method to POST,\n# Content-Type header to application/x-www-form-urlencoded\n# and data to send in request body.\nc.setopt(c.POSTFIELDS, postfields)\nc.perform()",
+        "detail": "venv.share.doc.pycurl.examples.quickstart.form_post",
+        "documentation": {}
+    },
+    {
+        "label": "post_data",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.quickstart.form_post",
+        "description": "venv.share.doc.pycurl.examples.quickstart.form_post",
+        "peekOfCode": "post_data = {'field': 'value'}\n# Form data must be provided already urlencoded.\npostfields = urlencode(post_data)\n# Sets request method to POST,\n# Content-Type header to application/x-www-form-urlencoded\n# and data to send in request body.\nc.setopt(c.POSTFIELDS, postfields)\nc.perform()\nc.close()",
+        "detail": "venv.share.doc.pycurl.examples.quickstart.form_post",
+        "documentation": {}
+    },
+    {
+        "label": "postfields",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.quickstart.form_post",
+        "description": "venv.share.doc.pycurl.examples.quickstart.form_post",
+        "peekOfCode": "postfields = urlencode(post_data)\n# Sets request method to POST,\n# Content-Type header to application/x-www-form-urlencoded\n# and data to send in request body.\nc.setopt(c.POSTFIELDS, postfields)\nc.perform()\nc.close()",
+        "detail": "venv.share.doc.pycurl.examples.quickstart.form_post",
+        "documentation": {}
+    },
+    {
+        "label": "buffer",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.quickstart.get",
+        "description": "venv.share.doc.pycurl.examples.quickstart.get",
+        "peekOfCode": "buffer = BytesIO()\nc = pycurl.Curl()\nc.setopt(c.URL, 'http://pycurl.io/')\nc.setopt(c.WRITEDATA, buffer)\n# For older PycURL versions:\n#c.setopt(c.WRITEFUNCTION, buffer.write)\nc.perform()\nc.close()\nbody = buffer.getvalue()\n# Body is a string on Python 2 and a byte string on Python 3.",
+        "detail": "venv.share.doc.pycurl.examples.quickstart.get",
+        "documentation": {}
+    },
+    {
+        "label": "c",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.quickstart.get",
+        "description": "venv.share.doc.pycurl.examples.quickstart.get",
+        "peekOfCode": "c = pycurl.Curl()\nc.setopt(c.URL, 'http://pycurl.io/')\nc.setopt(c.WRITEDATA, buffer)\n# For older PycURL versions:\n#c.setopt(c.WRITEFUNCTION, buffer.write)\nc.perform()\nc.close()\nbody = buffer.getvalue()\n# Body is a string on Python 2 and a byte string on Python 3.\n# If we know the encoding, we can always decode the body and",
+        "detail": "venv.share.doc.pycurl.examples.quickstart.get",
+        "documentation": {}
+    },
+    {
+        "label": "body",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.quickstart.get",
+        "description": "venv.share.doc.pycurl.examples.quickstart.get",
+        "peekOfCode": "body = buffer.getvalue()\n# Body is a string on Python 2 and a byte string on Python 3.\n# If we know the encoding, we can always decode the body and\n# end up with a Unicode string.\nprint(body.decode('iso-8859-1'))",
+        "detail": "venv.share.doc.pycurl.examples.quickstart.get",
+        "documentation": {}
+    },
+    {
+        "label": "buffer",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.quickstart.get_python2",
+        "description": "venv.share.doc.pycurl.examples.quickstart.get_python2",
+        "peekOfCode": "buffer = StringIO()\nc = pycurl.Curl()\nc.setopt(c.URL, 'http://pycurl.io/')\nc.setopt(c.WRITEDATA, buffer)\n# For older PycURL versions:\n#c.setopt(c.WRITEFUNCTION, buffer.write)\nc.perform()\nc.close()\nbody = buffer.getvalue()\n# Body is a string in some encoding.",
+        "detail": "venv.share.doc.pycurl.examples.quickstart.get_python2",
+        "documentation": {}
+    },
+    {
+        "label": "c",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.quickstart.get_python2",
+        "description": "venv.share.doc.pycurl.examples.quickstart.get_python2",
+        "peekOfCode": "c = pycurl.Curl()\nc.setopt(c.URL, 'http://pycurl.io/')\nc.setopt(c.WRITEDATA, buffer)\n# For older PycURL versions:\n#c.setopt(c.WRITEFUNCTION, buffer.write)\nc.perform()\nc.close()\nbody = buffer.getvalue()\n# Body is a string in some encoding.\n# In Python 2, we can print it without knowing what the encoding is.",
+        "detail": "venv.share.doc.pycurl.examples.quickstart.get_python2",
+        "documentation": {}
+    },
+    {
+        "label": "body",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.quickstart.get_python2",
+        "description": "venv.share.doc.pycurl.examples.quickstart.get_python2",
+        "peekOfCode": "body = buffer.getvalue()\n# Body is a string in some encoding.\n# In Python 2, we can print it without knowing what the encoding is.\nprint(body)",
+        "detail": "venv.share.doc.pycurl.examples.quickstart.get_python2",
+        "documentation": {}
+    },
+    {
+        "label": "buffer",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.quickstart.get_python2_https",
+        "description": "venv.share.doc.pycurl.examples.quickstart.get_python2_https",
+        "peekOfCode": "buffer = StringIO()\nc = pycurl.Curl()\nc.setopt(c.URL, 'http://pycurl.io/')\nc.setopt(c.WRITEDATA, buffer)\n# For older PycURL versions:\n#c.setopt(c.WRITEFUNCTION, buffer.write)\nc.setopt(c.CAINFO, certifi.where())\nc.perform()\nc.close()\nbody = buffer.getvalue()",
+        "detail": "venv.share.doc.pycurl.examples.quickstart.get_python2_https",
+        "documentation": {}
+    },
+    {
+        "label": "c",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.quickstart.get_python2_https",
+        "description": "venv.share.doc.pycurl.examples.quickstart.get_python2_https",
+        "peekOfCode": "c = pycurl.Curl()\nc.setopt(c.URL, 'http://pycurl.io/')\nc.setopt(c.WRITEDATA, buffer)\n# For older PycURL versions:\n#c.setopt(c.WRITEFUNCTION, buffer.write)\nc.setopt(c.CAINFO, certifi.where())\nc.perform()\nc.close()\nbody = buffer.getvalue()\n# Body is a string in some encoding.",
+        "detail": "venv.share.doc.pycurl.examples.quickstart.get_python2_https",
+        "documentation": {}
+    },
+    {
+        "label": "body",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.quickstart.get_python2_https",
+        "description": "venv.share.doc.pycurl.examples.quickstart.get_python2_https",
+        "peekOfCode": "body = buffer.getvalue()\n# Body is a string in some encoding.\n# In Python 2, we can print it without knowing what the encoding is.\nprint(body)",
+        "detail": "venv.share.doc.pycurl.examples.quickstart.get_python2_https",
+        "documentation": {}
+    },
+    {
+        "label": "buffer",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.quickstart.get_python3",
+        "description": "venv.share.doc.pycurl.examples.quickstart.get_python3",
+        "peekOfCode": "buffer = BytesIO()\nc = pycurl.Curl()\nc.setopt(c.URL, 'http://pycurl.io/')\nc.setopt(c.WRITEDATA, buffer)\nc.perform()\nc.close()\nbody = buffer.getvalue()\n# Body is a byte string.\n# We have to know the encoding in order to print it to a text file\n# such as standard output.",
+        "detail": "venv.share.doc.pycurl.examples.quickstart.get_python3",
+        "documentation": {}
+    },
+    {
+        "label": "c",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.quickstart.get_python3",
+        "description": "venv.share.doc.pycurl.examples.quickstart.get_python3",
+        "peekOfCode": "c = pycurl.Curl()\nc.setopt(c.URL, 'http://pycurl.io/')\nc.setopt(c.WRITEDATA, buffer)\nc.perform()\nc.close()\nbody = buffer.getvalue()\n# Body is a byte string.\n# We have to know the encoding in order to print it to a text file\n# such as standard output.\nprint(body.decode('iso-8859-1'))",
+        "detail": "venv.share.doc.pycurl.examples.quickstart.get_python3",
+        "documentation": {}
+    },
+    {
+        "label": "body",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.quickstart.get_python3",
+        "description": "venv.share.doc.pycurl.examples.quickstart.get_python3",
+        "peekOfCode": "body = buffer.getvalue()\n# Body is a byte string.\n# We have to know the encoding in order to print it to a text file\n# such as standard output.\nprint(body.decode('iso-8859-1'))",
+        "detail": "venv.share.doc.pycurl.examples.quickstart.get_python3",
+        "documentation": {}
+    },
+    {
+        "label": "buffer",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.quickstart.get_python3_https",
+        "description": "venv.share.doc.pycurl.examples.quickstart.get_python3_https",
+        "peekOfCode": "buffer = BytesIO()\nc = pycurl.Curl()\nc.setopt(c.URL, 'http://pycurl.io/')\nc.setopt(c.WRITEDATA, buffer)\nc.setopt(c.CAINFO, certifi.where())\nc.perform()\nc.close()\nbody = buffer.getvalue()\n# Body is a byte string.\n# We have to know the encoding in order to print it to a text file",
+        "detail": "venv.share.doc.pycurl.examples.quickstart.get_python3_https",
+        "documentation": {}
+    },
+    {
+        "label": "c",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.quickstart.get_python3_https",
+        "description": "venv.share.doc.pycurl.examples.quickstart.get_python3_https",
+        "peekOfCode": "c = pycurl.Curl()\nc.setopt(c.URL, 'http://pycurl.io/')\nc.setopt(c.WRITEDATA, buffer)\nc.setopt(c.CAINFO, certifi.where())\nc.perform()\nc.close()\nbody = buffer.getvalue()\n# Body is a byte string.\n# We have to know the encoding in order to print it to a text file\n# such as standard output.",
+        "detail": "venv.share.doc.pycurl.examples.quickstart.get_python3_https",
+        "documentation": {}
+    },
+    {
+        "label": "body",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.quickstart.get_python3_https",
+        "description": "venv.share.doc.pycurl.examples.quickstart.get_python3_https",
+        "peekOfCode": "body = buffer.getvalue()\n# Body is a byte string.\n# We have to know the encoding in order to print it to a text file\n# such as standard output.\nprint(body.decode('iso-8859-1'))",
+        "detail": "venv.share.doc.pycurl.examples.quickstart.get_python3_https",
+        "documentation": {}
+    },
+    {
+        "label": "c",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.quickstart.put_buffer",
+        "description": "venv.share.doc.pycurl.examples.quickstart.put_buffer",
+        "peekOfCode": "c = pycurl.Curl()\nc.setopt(c.URL, 'https://httpbin.org/put')\nc.setopt(c.UPLOAD, 1)\ndata = '{\"json\":true}'\n# READDATA requires an IO-like object; a string is not accepted\n# encode() is necessary for Python 3\nbuffer = BytesIO(data.encode('utf-8'))\nc.setopt(c.READDATA, buffer)\nc.perform()\nc.close()",
+        "detail": "venv.share.doc.pycurl.examples.quickstart.put_buffer",
+        "documentation": {}
+    },
+    {
+        "label": "data",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.quickstart.put_buffer",
+        "description": "venv.share.doc.pycurl.examples.quickstart.put_buffer",
+        "peekOfCode": "data = '{\"json\":true}'\n# READDATA requires an IO-like object; a string is not accepted\n# encode() is necessary for Python 3\nbuffer = BytesIO(data.encode('utf-8'))\nc.setopt(c.READDATA, buffer)\nc.perform()\nc.close()",
+        "detail": "venv.share.doc.pycurl.examples.quickstart.put_buffer",
+        "documentation": {}
+    },
+    {
+        "label": "buffer",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.quickstart.put_buffer",
+        "description": "venv.share.doc.pycurl.examples.quickstart.put_buffer",
+        "peekOfCode": "buffer = BytesIO(data.encode('utf-8'))\nc.setopt(c.READDATA, buffer)\nc.perform()\nc.close()",
+        "detail": "venv.share.doc.pycurl.examples.quickstart.put_buffer",
+        "documentation": {}
+    },
+    {
+        "label": "c",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.quickstart.put_file",
+        "description": "venv.share.doc.pycurl.examples.quickstart.put_file",
+        "peekOfCode": "c = pycurl.Curl()\nc.setopt(c.URL, 'https://httpbin.org/put')\nc.setopt(c.UPLOAD, 1)\nfile = open(__file__)\nc.setopt(c.READDATA, file)\nc.perform()\nc.close()\n# File must be kept open while Curl object is using it\nfile.close()",
+        "detail": "venv.share.doc.pycurl.examples.quickstart.put_file",
+        "documentation": {}
+    },
+    {
+        "label": "file",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.quickstart.put_file",
+        "description": "venv.share.doc.pycurl.examples.quickstart.put_file",
+        "peekOfCode": "file = open(__file__)\nc.setopt(c.READDATA, file)\nc.perform()\nc.close()\n# File must be kept open while Curl object is using it\nfile.close()",
+        "detail": "venv.share.doc.pycurl.examples.quickstart.put_file",
+        "documentation": {}
+    },
+    {
+        "label": "header_function",
+        "kind": 2,
+        "importPath": "venv.share.doc.pycurl.examples.quickstart.response_headers",
+        "description": "venv.share.doc.pycurl.examples.quickstart.response_headers",
+        "peekOfCode": "def header_function(header_line):\n    # HTTP standard specifies that headers are encoded in iso-8859-1.\n    # On Python 2, decoding step can be skipped.\n    # On Python 3, decoding step is required.\n    header_line = header_line.decode('iso-8859-1')\n    # Header lines include the first status line (HTTP/1.x ...).\n    # We are going to ignore all lines that don't have a colon in them.\n    # This will botch headers that are split on multiple lines...\n    if ':' not in header_line:\n        return",
+        "detail": "venv.share.doc.pycurl.examples.quickstart.response_headers",
+        "documentation": {}
+    },
+    {
+        "label": "headers",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.quickstart.response_headers",
+        "description": "venv.share.doc.pycurl.examples.quickstart.response_headers",
+        "peekOfCode": "headers = {}\ndef header_function(header_line):\n    # HTTP standard specifies that headers are encoded in iso-8859-1.\n    # On Python 2, decoding step can be skipped.\n    # On Python 3, decoding step is required.\n    header_line = header_line.decode('iso-8859-1')\n    # Header lines include the first status line (HTTP/1.x ...).\n    # We are going to ignore all lines that don't have a colon in them.\n    # This will botch headers that are split on multiple lines...\n    if ':' not in header_line:",
+        "detail": "venv.share.doc.pycurl.examples.quickstart.response_headers",
+        "documentation": {}
+    },
+    {
+        "label": "buffer",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.quickstart.response_headers",
+        "description": "venv.share.doc.pycurl.examples.quickstart.response_headers",
+        "peekOfCode": "buffer = BytesIO()\nc = pycurl.Curl()\nc.setopt(c.URL, 'http://pycurl.io')\nc.setopt(c.WRITEFUNCTION, buffer.write)\n# Set our header function.\nc.setopt(c.HEADERFUNCTION, header_function)\nc.perform()\nc.close()\n# Figure out what encoding was sent with the response, if any.\n# Check against lowercased header name.",
+        "detail": "venv.share.doc.pycurl.examples.quickstart.response_headers",
+        "documentation": {}
+    },
+    {
+        "label": "c",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.quickstart.response_headers",
+        "description": "venv.share.doc.pycurl.examples.quickstart.response_headers",
+        "peekOfCode": "c = pycurl.Curl()\nc.setopt(c.URL, 'http://pycurl.io')\nc.setopt(c.WRITEFUNCTION, buffer.write)\n# Set our header function.\nc.setopt(c.HEADERFUNCTION, header_function)\nc.perform()\nc.close()\n# Figure out what encoding was sent with the response, if any.\n# Check against lowercased header name.\nencoding = None",
+        "detail": "venv.share.doc.pycurl.examples.quickstart.response_headers",
+        "documentation": {}
+    },
+    {
+        "label": "encoding",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.quickstart.response_headers",
+        "description": "venv.share.doc.pycurl.examples.quickstart.response_headers",
+        "peekOfCode": "encoding = None\nif 'content-type' in headers:\n    content_type = headers['content-type'].lower()\n    match = re.search('charset=(\\S+)', content_type)\n    if match:\n        encoding = match.group(1)\n        print('Decoding using %s' % encoding)\nif encoding is None:\n    # Default encoding for HTML is iso-8859-1.\n    # Other content types may have different default encoding,",
+        "detail": "venv.share.doc.pycurl.examples.quickstart.response_headers",
+        "documentation": {}
+    },
+    {
+        "label": "body",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.quickstart.response_headers",
+        "description": "venv.share.doc.pycurl.examples.quickstart.response_headers",
+        "peekOfCode": "body = buffer.getvalue()\n# Decode using the encoding we figured out.\nprint(body.decode(encoding))",
+        "detail": "venv.share.doc.pycurl.examples.quickstart.response_headers",
+        "documentation": {}
+    },
+    {
+        "label": "buffer",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.quickstart.response_info",
+        "description": "venv.share.doc.pycurl.examples.quickstart.response_info",
+        "peekOfCode": "buffer = BytesIO()\nc = pycurl.Curl()\nc.setopt(c.URL, 'http://pycurl.io/')\nc.setopt(c.WRITEDATA, buffer)\nc.perform()\n# HTTP response code, e.g. 200.\nprint('Status: %d' % c.getinfo(c.RESPONSE_CODE))\n# Elapsed time for the transfer.\nprint('Time: %f' % c.getinfo(c.TOTAL_TIME))\n# getinfo must be called before close.",
+        "detail": "venv.share.doc.pycurl.examples.quickstart.response_info",
+        "documentation": {}
+    },
+    {
+        "label": "c",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.quickstart.response_info",
+        "description": "venv.share.doc.pycurl.examples.quickstart.response_info",
+        "peekOfCode": "c = pycurl.Curl()\nc.setopt(c.URL, 'http://pycurl.io/')\nc.setopt(c.WRITEDATA, buffer)\nc.perform()\n# HTTP response code, e.g. 200.\nprint('Status: %d' % c.getinfo(c.RESPONSE_CODE))\n# Elapsed time for the transfer.\nprint('Time: %f' % c.getinfo(c.TOTAL_TIME))\n# getinfo must be called before close.\nc.close()",
+        "detail": "venv.share.doc.pycurl.examples.quickstart.response_info",
+        "documentation": {}
+    },
+    {
+        "label": "Test",
+        "kind": 6,
+        "importPath": "venv.share.doc.pycurl.examples.basicfirst",
+        "description": "venv.share.doc.pycurl.examples.basicfirst",
+        "peekOfCode": "class Test:\n    def __init__(self):\n        self.contents = ''\n        if PY3:\n            self.contents = self.contents.encode('ascii')\n    def body_callback(self, buf):\n        self.contents = self.contents + buf\nsys.stderr.write(\"Testing %s\\n\" % pycurl.version)\nt = Test()\nc = pycurl.Curl()",
+        "detail": "venv.share.doc.pycurl.examples.basicfirst",
+        "documentation": {}
+    },
+    {
+        "label": "PY3",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.basicfirst",
+        "description": "venv.share.doc.pycurl.examples.basicfirst",
+        "peekOfCode": "PY3 = sys.version_info[0] > 2\nclass Test:\n    def __init__(self):\n        self.contents = ''\n        if PY3:\n            self.contents = self.contents.encode('ascii')\n    def body_callback(self, buf):\n        self.contents = self.contents + buf\nsys.stderr.write(\"Testing %s\\n\" % pycurl.version)\nt = Test()",
+        "detail": "venv.share.doc.pycurl.examples.basicfirst",
+        "documentation": {}
+    },
+    {
+        "label": "t",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.basicfirst",
+        "description": "venv.share.doc.pycurl.examples.basicfirst",
+        "peekOfCode": "t = Test()\nc = pycurl.Curl()\nc.setopt(c.URL, 'https://curl.haxx.se/dev/')\nc.setopt(c.WRITEFUNCTION, t.body_callback)\nc.perform()\nc.close()\nprint(t.contents)",
+        "detail": "venv.share.doc.pycurl.examples.basicfirst",
+        "documentation": {}
+    },
+    {
+        "label": "c",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.basicfirst",
+        "description": "venv.share.doc.pycurl.examples.basicfirst",
+        "peekOfCode": "c = pycurl.Curl()\nc.setopt(c.URL, 'https://curl.haxx.se/dev/')\nc.setopt(c.WRITEFUNCTION, t.body_callback)\nc.perform()\nc.close()\nprint(t.contents)",
+        "detail": "venv.share.doc.pycurl.examples.basicfirst",
+        "documentation": {}
+    },
+    {
+        "label": "FileReader",
+        "kind": 6,
+        "importPath": "venv.share.doc.pycurl.examples.file_upload",
+        "description": "venv.share.doc.pycurl.examples.file_upload",
+        "peekOfCode": "class FileReader:\n    def __init__(self, fp):\n        self.fp = fp\n    def read_callback(self, size):\n        return self.fp.read(size)\n# Check commandline arguments\nif len(sys.argv) < 3:\n    print(\"Usage: %s <url> <file to upload>\" % sys.argv[0])\n    raise SystemExit\nurl = sys.argv[1]",
+        "detail": "venv.share.doc.pycurl.examples.file_upload",
+        "documentation": {}
+    },
+    {
+        "label": "url",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.file_upload",
+        "description": "venv.share.doc.pycurl.examples.file_upload",
+        "peekOfCode": "url = sys.argv[1]\nfilename = sys.argv[2]\nif not os.path.exists(filename):\n    print(\"Error: the file '%s' does not exist\" % filename)\n    raise SystemExit\n# Initialize pycurl\nc = pycurl.Curl()\nc.setopt(pycurl.URL, url)\nc.setopt(pycurl.UPLOAD, 1)\n# Two versions with the same semantics here, but the filereader version",
+        "detail": "venv.share.doc.pycurl.examples.file_upload",
+        "documentation": {}
+    },
+    {
+        "label": "filename",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.file_upload",
+        "description": "venv.share.doc.pycurl.examples.file_upload",
+        "peekOfCode": "filename = sys.argv[2]\nif not os.path.exists(filename):\n    print(\"Error: the file '%s' does not exist\" % filename)\n    raise SystemExit\n# Initialize pycurl\nc = pycurl.Curl()\nc.setopt(pycurl.URL, url)\nc.setopt(pycurl.UPLOAD, 1)\n# Two versions with the same semantics here, but the filereader version\n# is useful when you have to process the data which is read before returning",
+        "detail": "venv.share.doc.pycurl.examples.file_upload",
+        "documentation": {}
+    },
+    {
+        "label": "c",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.file_upload",
+        "description": "venv.share.doc.pycurl.examples.file_upload",
+        "peekOfCode": "c = pycurl.Curl()\nc.setopt(pycurl.URL, url)\nc.setopt(pycurl.UPLOAD, 1)\n# Two versions with the same semantics here, but the filereader version\n# is useful when you have to process the data which is read before returning\nif 1:\n    c.setopt(pycurl.READFUNCTION, FileReader(open(filename, 'rb')).read_callback)\nelse:\n    c.setopt(pycurl.READFUNCTION, open(filename, 'rb').read)\n# Set size of file to be uploaded.",
+        "detail": "venv.share.doc.pycurl.examples.file_upload",
+        "documentation": {}
+    },
+    {
+        "label": "filesize",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.file_upload",
+        "description": "venv.share.doc.pycurl.examples.file_upload",
+        "peekOfCode": "filesize = os.path.getsize(filename)\nc.setopt(pycurl.INFILESIZE, filesize)\n# Start transfer\nprint('Uploading file %s to url %s' % (filename, url))\nc.perform()\nc.close()",
+        "detail": "venv.share.doc.pycurl.examples.file_upload",
+        "documentation": {}
+    },
+    {
+        "label": "LinksysError",
+        "kind": 6,
+        "importPath": "venv.share.doc.pycurl.examples.linksys",
+        "description": "venv.share.doc.pycurl.examples.linksys",
+        "peekOfCode": "class LinksysError(exceptions.Exception):\n    def __init__(self, *args):\n        self.args = args\nclass LinksysSession:\n    months = 'Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec'\n    WAN_CONNECT_AUTO = '1'\n    WAN_CONNECT_STATIC = '2'\n    WAN_CONNECT_PPOE = '3'\n    WAN_CONNECT_RAS = '4'\n    WAN_CONNECT_PPTP = '5'",
+        "detail": "venv.share.doc.pycurl.examples.linksys",
+        "documentation": {}
+    },
+    {
+        "label": "LinksysSession",
+        "kind": 6,
+        "importPath": "venv.share.doc.pycurl.examples.linksys",
+        "description": "venv.share.doc.pycurl.examples.linksys",
+        "peekOfCode": "class LinksysSession:\n    months = 'Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec'\n    WAN_CONNECT_AUTO = '1'\n    WAN_CONNECT_STATIC = '2'\n    WAN_CONNECT_PPOE = '3'\n    WAN_CONNECT_RAS = '4'\n    WAN_CONNECT_PPTP = '5'\n    WAN_CONNECT_HEARTBEAT = '6'\n    # Substrings to check for on each page load.\n    # This may enable us to detect when a firmware change has hosed us.",
+        "detail": "venv.share.doc.pycurl.examples.linksys",
+        "documentation": {}
+    },
+    {
+        "label": "print_stderr",
+        "kind": 2,
+        "importPath": "venv.share.doc.pycurl.examples.linksys",
+        "description": "venv.share.doc.pycurl.examples.linksys",
+        "peekOfCode": "def print_stderr(arg):\n    sys.stderr.write(arg)\n    sys.stderr.write(\"\\n\")\nclass LinksysError(exceptions.Exception):\n    def __init__(self, *args):\n        self.args = args\nclass LinksysSession:\n    months = 'Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec'\n    WAN_CONNECT_AUTO = '1'\n    WAN_CONNECT_STATIC = '2'",
+        "detail": "venv.share.doc.pycurl.examples.linksys",
+        "documentation": {}
+    },
+    {
+        "label": "socket_fn",
+        "kind": 2,
+        "importPath": "venv.share.doc.pycurl.examples.multi-socket_action-select",
+        "description": "venv.share.doc.pycurl.examples.multi-socket_action-select",
+        "peekOfCode": "def socket_fn(what, sock_fd, multi, socketp):\n    if what == pycurl.POLL_IN or what == pycurl.POLL_INOUT:\n        state['rlist'].append(sock_fd)\n    elif what == pycurl.POLL_OUT or what == pycurl.POLL_INOUT:\n        state['wlist'].append(sock_fd)\n    elif what == pycurl.POLL_REMOVE:\n        if sock_fd in state['rlist']:\n            state['rlist'].remove(sock_fd)\n        if sock_fd in state['wlist']:\n            state['wlist'].remove(sock_fd)",
+        "detail": "venv.share.doc.pycurl.examples.multi-socket_action-select",
+        "documentation": {}
+    },
+    {
+        "label": "work",
+        "kind": 2,
+        "importPath": "venv.share.doc.pycurl.examples.multi-socket_action-select",
+        "description": "venv.share.doc.pycurl.examples.multi-socket_action-select",
+        "peekOfCode": "def work(timeout):\n    rready, wready, xready = select.select(\n        state['rlist'], state['wlist'], set(state['rlist']) | set(state['wlist']), timeout)\n    if len(rready) == 0 and len(wready) == 0 and len(xready) == 0:\n        # The number of running handles must be updated after each\n        # call to socket_action, which includes those with the SOCKET_TIMEOUT\n        # argument (otherwise e.g. a transfer which failed due to\n        # exceeding the connection timeout would hang).\n        _, running = multi.socket_action(pycurl.SOCKET_TIMEOUT, 0)\n    else:",
+        "detail": "venv.share.doc.pycurl.examples.multi-socket_action-select",
+        "documentation": {}
+    },
+    {
+        "label": "timer_fn",
+        "kind": 2,
+        "importPath": "venv.share.doc.pycurl.examples.multi-socket_action-select",
+        "description": "venv.share.doc.pycurl.examples.multi-socket_action-select",
+        "peekOfCode": "def timer_fn(timeout_ms):\n    if timeout_ms < 0:\n        # libcurl passes a negative timeout value when no further\n        # calls should be made.\n        state['timeout'] = None\n    state['timeout'] = timeout_ms / 1000.0\nmulti = pycurl.CurlMulti()\nmulti.setopt(pycurl.M_SOCKETFUNCTION, socket_fn)\nmulti.setopt(pycurl.M_TIMERFUNCTION, timer_fn)\neasy = pycurl.Curl()",
+        "detail": "venv.share.doc.pycurl.examples.multi-socket_action-select",
+        "documentation": {}
+    },
+    {
+        "label": "state",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.multi-socket_action-select",
+        "description": "venv.share.doc.pycurl.examples.multi-socket_action-select",
+        "peekOfCode": "state = {\n    'rlist': [],\n    'wlist': [],\n    'running': None,\n    'timeout': None,\n    'result': None,\n    # If the transfer failed, code and msg will be filled in.\n    'code': None,\n    'msg': None,\n}",
+        "detail": "venv.share.doc.pycurl.examples.multi-socket_action-select",
+        "documentation": {}
+    },
+    {
+        "label": "multi",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.multi-socket_action-select",
+        "description": "venv.share.doc.pycurl.examples.multi-socket_action-select",
+        "peekOfCode": "multi = pycurl.CurlMulti()\nmulti.setopt(pycurl.M_SOCKETFUNCTION, socket_fn)\nmulti.setopt(pycurl.M_TIMERFUNCTION, timer_fn)\neasy = pycurl.Curl()\neasy.setopt(pycurl.URL, url)\n# Uncomment to see what libcurl is doing throughout the transfer.\n#easy.setopt(pycurl.VERBOSE, 1)\neasy.setopt(pycurl.CONNECTTIMEOUT, 5)\neasy.setopt(pycurl.LOW_SPEED_TIME, 5)\neasy.setopt(pycurl.LOW_SPEED_LIMIT, 1)",
+        "detail": "venv.share.doc.pycurl.examples.multi-socket_action-select",
+        "documentation": {}
+    },
+    {
+        "label": "easy",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.multi-socket_action-select",
+        "description": "venv.share.doc.pycurl.examples.multi-socket_action-select",
+        "peekOfCode": "easy = pycurl.Curl()\neasy.setopt(pycurl.URL, url)\n# Uncomment to see what libcurl is doing throughout the transfer.\n#easy.setopt(pycurl.VERBOSE, 1)\neasy.setopt(pycurl.CONNECTTIMEOUT, 5)\neasy.setopt(pycurl.LOW_SPEED_TIME, 5)\neasy.setopt(pycurl.LOW_SPEED_LIMIT, 1)\n_io = BytesIO()\neasy.setopt(pycurl.WRITEDATA, _io)\nmulti.add_handle(easy)",
+        "detail": "venv.share.doc.pycurl.examples.multi-socket_action-select",
+        "documentation": {}
+    },
+    {
+        "label": "_io",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.multi-socket_action-select",
+        "description": "venv.share.doc.pycurl.examples.multi-socket_action-select",
+        "peekOfCode": "_io = BytesIO()\neasy.setopt(pycurl.WRITEDATA, _io)\nmulti.add_handle(easy)\nhandles = multi.socket_action(pycurl.SOCKET_TIMEOUT, 0)\n# This should invoke the timer function with a timeout value.\nwhile True:\n    if state['running'] == 0:\n        break\n    else:\n        # By the time we get here, timer function should have been already",
+        "detail": "venv.share.doc.pycurl.examples.multi-socket_action-select",
+        "documentation": {}
+    },
+    {
+        "label": "handles",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.multi-socket_action-select",
+        "description": "venv.share.doc.pycurl.examples.multi-socket_action-select",
+        "peekOfCode": "handles = multi.socket_action(pycurl.SOCKET_TIMEOUT, 0)\n# This should invoke the timer function with a timeout value.\nwhile True:\n    if state['running'] == 0:\n        break\n    else:\n        # By the time we get here, timer function should have been already\n        # invoked at least once so that we have a libcurl-supplied\n        # timeout value. But in case this hasn't happened, default the timeout\n        # to 1 second.",
+        "detail": "venv.share.doc.pycurl.examples.multi-socket_action-select",
+        "documentation": {}
+    },
+    {
+        "label": "ConnectionRejected",
+        "kind": 6,
+        "importPath": "venv.share.doc.pycurl.examples.opensocketexception",
+        "description": "venv.share.doc.pycurl.examples.opensocketexception",
+        "peekOfCode": "class ConnectionRejected(Exception):\n    pass\ndef opensocket(curl, purpose, curl_address):\n    if random.random() < 0.5:\n        curl.exception = ConnectionRejected('Rejecting connection attempt in opensocket callback')\n        return pycurl.SOCKET_BAD\n    family, socktype, protocol, address = curl_address\n    s = socket.socket(family, socktype, protocol)\n    s.setsockopt(socket.SOL_SOCKET, socket.SO_KEEPALIVE, 1)\n    return s",
+        "detail": "venv.share.doc.pycurl.examples.opensocketexception",
+        "documentation": {}
+    },
+    {
+        "label": "opensocket",
+        "kind": 2,
+        "importPath": "venv.share.doc.pycurl.examples.opensocketexception",
+        "description": "venv.share.doc.pycurl.examples.opensocketexception",
+        "peekOfCode": "def opensocket(curl, purpose, curl_address):\n    if random.random() < 0.5:\n        curl.exception = ConnectionRejected('Rejecting connection attempt in opensocket callback')\n        return pycurl.SOCKET_BAD\n    family, socktype, protocol, address = curl_address\n    s = socket.socket(family, socktype, protocol)\n    s.setsockopt(socket.SOL_SOCKET, socket.SO_KEEPALIVE, 1)\n    return s\nc = pycurl.Curl()\nc.setopt(c.URL, 'http://pycurl.io')",
+        "detail": "venv.share.doc.pycurl.examples.opensocketexception",
+        "documentation": {}
+    },
+    {
+        "label": "c",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.opensocketexception",
+        "description": "venv.share.doc.pycurl.examples.opensocketexception",
+        "peekOfCode": "c = pycurl.Curl()\nc.setopt(c.URL, 'http://pycurl.io')\nc.exception = None\nc.setopt(c.OPENSOCKETFUNCTION,\n    lambda purpose, address: opensocket(c, purpose, address))\ntry:\n    c.perform()\nexcept pycurl.error as e:\n    if e.args[0] == pycurl.E_COULDNT_CONNECT and c.exception:\n        print(c.exception)",
+        "detail": "venv.share.doc.pycurl.examples.opensocketexception",
+        "documentation": {}
+    },
+    {
+        "label": "c.exception",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.opensocketexception",
+        "description": "venv.share.doc.pycurl.examples.opensocketexception",
+        "peekOfCode": "c.exception = None\nc.setopt(c.OPENSOCKETFUNCTION,\n    lambda purpose, address: opensocket(c, purpose, address))\ntry:\n    c.perform()\nexcept pycurl.error as e:\n    if e.args[0] == pycurl.E_COULDNT_CONNECT and c.exception:\n        print(c.exception)\n    else:\n        print(e)",
+        "detail": "venv.share.doc.pycurl.examples.opensocketexception",
+        "documentation": {}
+    },
+    {
+        "label": "num_conn",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.retriever-multi",
+        "description": "venv.share.doc.pycurl.examples.retriever-multi",
+        "peekOfCode": "num_conn = 10\ntry:\n    if sys.argv[1] == \"-\":\n        urls = sys.stdin.readlines()\n    else:\n        urls = open(sys.argv[1]).readlines()\n    if len(sys.argv) >= 3:\n        num_conn = int(sys.argv[2])\nexcept:\n    print(\"Usage: %s <file with URLs to fetch> [<# of concurrent connections>]\" % sys.argv[0])",
+        "detail": "venv.share.doc.pycurl.examples.retriever-multi",
+        "documentation": {}
+    },
+    {
+        "label": "queue",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.retriever-multi",
+        "description": "venv.share.doc.pycurl.examples.retriever-multi",
+        "peekOfCode": "queue = []\nfor url in urls:\n    url = url.strip()\n    if not url or url[0] == \"#\":\n        continue\n    filename = \"doc_%03d.dat\" % (len(queue) + 1)\n    queue.append((url, filename))\n# Check args\nassert queue, \"no URLs given\"\nnum_urls = len(queue)",
+        "detail": "venv.share.doc.pycurl.examples.retriever-multi",
+        "documentation": {}
+    },
+    {
+        "label": "num_urls",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.retriever-multi",
+        "description": "venv.share.doc.pycurl.examples.retriever-multi",
+        "peekOfCode": "num_urls = len(queue)\nnum_conn = min(num_conn, num_urls)\nassert 1 <= num_conn <= 10000, \"invalid number of concurrent connections\"\nprint(\"PycURL %s (compiled against 0x%x)\" % (pycurl.version, pycurl.COMPILE_LIBCURL_VERSION_NUM))\nprint(\"----- Getting\", num_urls, \"URLs using\", num_conn, \"connections -----\")\n# Pre-allocate a list of curl objects\nm = pycurl.CurlMulti()\nm.handles = []\nfor i in range(num_conn):\n    c = pycurl.Curl()",
+        "detail": "venv.share.doc.pycurl.examples.retriever-multi",
+        "documentation": {}
+    },
+    {
+        "label": "num_conn",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.retriever-multi",
+        "description": "venv.share.doc.pycurl.examples.retriever-multi",
+        "peekOfCode": "num_conn = min(num_conn, num_urls)\nassert 1 <= num_conn <= 10000, \"invalid number of concurrent connections\"\nprint(\"PycURL %s (compiled against 0x%x)\" % (pycurl.version, pycurl.COMPILE_LIBCURL_VERSION_NUM))\nprint(\"----- Getting\", num_urls, \"URLs using\", num_conn, \"connections -----\")\n# Pre-allocate a list of curl objects\nm = pycurl.CurlMulti()\nm.handles = []\nfor i in range(num_conn):\n    c = pycurl.Curl()\n    c.fp = None",
+        "detail": "venv.share.doc.pycurl.examples.retriever-multi",
+        "documentation": {}
+    },
+    {
+        "label": "m",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.retriever-multi",
+        "description": "venv.share.doc.pycurl.examples.retriever-multi",
+        "peekOfCode": "m = pycurl.CurlMulti()\nm.handles = []\nfor i in range(num_conn):\n    c = pycurl.Curl()\n    c.fp = None\n    c.setopt(pycurl.FOLLOWLOCATION, 1)\n    c.setopt(pycurl.MAXREDIRS, 5)\n    c.setopt(pycurl.CONNECTTIMEOUT, 30)\n    c.setopt(pycurl.TIMEOUT, 300)\n    c.setopt(pycurl.NOSIGNAL, 1)",
+        "detail": "venv.share.doc.pycurl.examples.retriever-multi",
+        "documentation": {}
+    },
+    {
+        "label": "m.handles",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.retriever-multi",
+        "description": "venv.share.doc.pycurl.examples.retriever-multi",
+        "peekOfCode": "m.handles = []\nfor i in range(num_conn):\n    c = pycurl.Curl()\n    c.fp = None\n    c.setopt(pycurl.FOLLOWLOCATION, 1)\n    c.setopt(pycurl.MAXREDIRS, 5)\n    c.setopt(pycurl.CONNECTTIMEOUT, 30)\n    c.setopt(pycurl.TIMEOUT, 300)\n    c.setopt(pycurl.NOSIGNAL, 1)\n    m.handles.append(c)",
+        "detail": "venv.share.doc.pycurl.examples.retriever-multi",
+        "documentation": {}
+    },
+    {
+        "label": "freelist",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.retriever-multi",
+        "description": "venv.share.doc.pycurl.examples.retriever-multi",
+        "peekOfCode": "freelist = m.handles[:]\nnum_processed = 0\nwhile num_processed < num_urls:\n    # If there is an url to process and a free curl object, add to multi stack\n    while queue and freelist:\n        url, filename = queue.pop(0)\n        c = freelist.pop()\n        c.fp = open(filename, \"wb\")\n        c.setopt(pycurl.URL, url)\n        c.setopt(pycurl.WRITEDATA, c.fp)",
+        "detail": "venv.share.doc.pycurl.examples.retriever-multi",
+        "documentation": {}
+    },
+    {
+        "label": "num_processed",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.retriever-multi",
+        "description": "venv.share.doc.pycurl.examples.retriever-multi",
+        "peekOfCode": "num_processed = 0\nwhile num_processed < num_urls:\n    # If there is an url to process and a free curl object, add to multi stack\n    while queue and freelist:\n        url, filename = queue.pop(0)\n        c = freelist.pop()\n        c.fp = open(filename, \"wb\")\n        c.setopt(pycurl.URL, url)\n        c.setopt(pycurl.WRITEDATA, c.fp)\n        m.add_handle(c)",
+        "detail": "venv.share.doc.pycurl.examples.retriever-multi",
+        "documentation": {}
+    },
+    {
+        "label": "WorkerThread",
+        "kind": 6,
+        "importPath": "venv.share.doc.pycurl.examples.retriever",
+        "description": "venv.share.doc.pycurl.examples.retriever",
+        "peekOfCode": "class WorkerThread(threading.Thread):\n    def __init__(self, queue):\n        threading.Thread.__init__(self)\n        self.queue = queue\n    def run(self):\n        while 1:\n            try:\n                url, filename = self.queue.get_nowait()\n            except Queue.Empty:\n                raise SystemExit",
+        "detail": "venv.share.doc.pycurl.examples.retriever",
+        "documentation": {}
+    },
+    {
+        "label": "num_conn",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.retriever",
+        "description": "venv.share.doc.pycurl.examples.retriever",
+        "peekOfCode": "num_conn = 10\ntry:\n    if sys.argv[1] == \"-\":\n        urls = sys.stdin.readlines()\n    else:\n        urls = open(sys.argv[1]).readlines()\n    if len(sys.argv) >= 3:\n        num_conn = int(sys.argv[2])\nexcept:\n    print(\"Usage: %s <file with URLs to fetch> [<# of concurrent connections>]\" % sys.argv[0])",
+        "detail": "venv.share.doc.pycurl.examples.retriever",
+        "documentation": {}
+    },
+    {
+        "label": "queue",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.retriever",
+        "description": "venv.share.doc.pycurl.examples.retriever",
+        "peekOfCode": "queue = Queue.Queue()\nfor url in urls:\n    url = url.strip()\n    if not url or url[0] == \"#\":\n        continue\n    filename = \"doc_%03d.dat\" % (len(queue.queue) + 1)\n    queue.put((url, filename))\n# Check args\nassert queue.queue, \"no URLs given\"\nnum_urls = len(queue.queue)",
+        "detail": "venv.share.doc.pycurl.examples.retriever",
+        "documentation": {}
+    },
+    {
+        "label": "num_urls",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.retriever",
+        "description": "venv.share.doc.pycurl.examples.retriever",
+        "peekOfCode": "num_urls = len(queue.queue)\nnum_conn = min(num_conn, num_urls)\nassert 1 <= num_conn <= 10000, \"invalid number of concurrent connections\"\nprint(\"PycURL %s (compiled against 0x%x)\" % (pycurl.version, pycurl.COMPILE_LIBCURL_VERSION_NUM))\nprint(\"----- Getting\", num_urls, \"URLs using\", num_conn, \"connections -----\")\nclass WorkerThread(threading.Thread):\n    def __init__(self, queue):\n        threading.Thread.__init__(self)\n        self.queue = queue\n    def run(self):",
+        "detail": "venv.share.doc.pycurl.examples.retriever",
+        "documentation": {}
+    },
+    {
+        "label": "num_conn",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.retriever",
+        "description": "venv.share.doc.pycurl.examples.retriever",
+        "peekOfCode": "num_conn = min(num_conn, num_urls)\nassert 1 <= num_conn <= 10000, \"invalid number of concurrent connections\"\nprint(\"PycURL %s (compiled against 0x%x)\" % (pycurl.version, pycurl.COMPILE_LIBCURL_VERSION_NUM))\nprint(\"----- Getting\", num_urls, \"URLs using\", num_conn, \"connections -----\")\nclass WorkerThread(threading.Thread):\n    def __init__(self, queue):\n        threading.Thread.__init__(self)\n        self.queue = queue\n    def run(self):\n        while 1:",
+        "detail": "venv.share.doc.pycurl.examples.retriever",
+        "documentation": {}
+    },
+    {
+        "label": "threads",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.retriever",
+        "description": "venv.share.doc.pycurl.examples.retriever",
+        "peekOfCode": "threads = []\nfor dummy in range(num_conn):\n    t = WorkerThread(queue)\n    t.start()\n    threads.append(t)\n# Wait for all threads to finish\nfor thread in threads:\n    thread.join()",
+        "detail": "venv.share.doc.pycurl.examples.retriever",
+        "documentation": {}
+    },
+    {
+        "label": "SourceForgeUserSession",
+        "kind": 6,
+        "importPath": "venv.share.doc.pycurl.examples.sfquery",
+        "description": "venv.share.doc.pycurl.examples.sfquery",
+        "peekOfCode": "class SourceForgeUserSession(curl.Curl):\n    # SourceForge-specific methods.  Sensitive to changes in site design.\n    def login(self, name, password):\n        \"Establish a login session.\"\n        self.post(\"account/login.php\", ((\"form_loginname\", name),\n                                        (\"form_pw\", password),\n                                        (\"return_to\", \"\"),\n                                        (\"stay_in_ssl\", \"1\"),\n                                        (\"login\", \"Login With SSL\")))\n    def logout(self):",
+        "detail": "venv.share.doc.pycurl.examples.sfquery",
+        "documentation": {}
+    },
+    {
+        "label": "PY3",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.smtp",
+        "description": "venv.share.doc.pycurl.examples.smtp",
+        "peekOfCode": "PY3 = sys.version_info[0] > 2\nmail_server = 'smtp://%s' % localhost\nmail_from = 'sender@example.org'\nmail_to = 'addressee@example.net'\nc = pycurl.Curl()\nc.setopt(c.URL, mail_server)\nc.setopt(c.MAIL_FROM, mail_from)\nc.setopt(c.MAIL_RCPT, [mail_to])\nmessage = '''\\\nFrom: %s",
+        "detail": "venv.share.doc.pycurl.examples.smtp",
+        "documentation": {}
+    },
+    {
+        "label": "mail_server",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.smtp",
+        "description": "venv.share.doc.pycurl.examples.smtp",
+        "peekOfCode": "mail_server = 'smtp://%s' % localhost\nmail_from = 'sender@example.org'\nmail_to = 'addressee@example.net'\nc = pycurl.Curl()\nc.setopt(c.URL, mail_server)\nc.setopt(c.MAIL_FROM, mail_from)\nc.setopt(c.MAIL_RCPT, [mail_to])\nmessage = '''\\\nFrom: %s\nTo: %s",
+        "detail": "venv.share.doc.pycurl.examples.smtp",
+        "documentation": {}
+    },
+    {
+        "label": "mail_from",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.smtp",
+        "description": "venv.share.doc.pycurl.examples.smtp",
+        "peekOfCode": "mail_from = 'sender@example.org'\nmail_to = 'addressee@example.net'\nc = pycurl.Curl()\nc.setopt(c.URL, mail_server)\nc.setopt(c.MAIL_FROM, mail_from)\nc.setopt(c.MAIL_RCPT, [mail_to])\nmessage = '''\\\nFrom: %s\nTo: %s\nSubject: PycURL SMTP example",
+        "detail": "venv.share.doc.pycurl.examples.smtp",
+        "documentation": {}
+    },
+    {
+        "label": "mail_to",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.smtp",
+        "description": "venv.share.doc.pycurl.examples.smtp",
+        "peekOfCode": "mail_to = 'addressee@example.net'\nc = pycurl.Curl()\nc.setopt(c.URL, mail_server)\nc.setopt(c.MAIL_FROM, mail_from)\nc.setopt(c.MAIL_RCPT, [mail_to])\nmessage = '''\\\nFrom: %s\nTo: %s\nSubject: PycURL SMTP example\nSMTP example via PycURL",
+        "detail": "venv.share.doc.pycurl.examples.smtp",
+        "documentation": {}
+    },
+    {
+        "label": "c",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.smtp",
+        "description": "venv.share.doc.pycurl.examples.smtp",
+        "peekOfCode": "c = pycurl.Curl()\nc.setopt(c.URL, mail_server)\nc.setopt(c.MAIL_FROM, mail_from)\nc.setopt(c.MAIL_RCPT, [mail_to])\nmessage = '''\\\nFrom: %s\nTo: %s\nSubject: PycURL SMTP example\nSMTP example via PycURL\n''' % (mail_from, mail_to)",
+        "detail": "venv.share.doc.pycurl.examples.smtp",
+        "documentation": {}
+    },
+    {
+        "label": "message",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.smtp",
+        "description": "venv.share.doc.pycurl.examples.smtp",
+        "peekOfCode": "message = '''\\\nFrom: %s\nTo: %s\nSubject: PycURL SMTP example\nSMTP example via PycURL\n''' % (mail_from, mail_to)\nif PY3:\n    message = message.encode('ascii')\n# libcurl does not perform buffering, therefore\n# we need to wrap the message string into a BytesIO or StringIO.",
+        "detail": "venv.share.doc.pycurl.examples.smtp",
+        "documentation": {}
+    },
+    {
+        "label": "io",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.smtp",
+        "description": "venv.share.doc.pycurl.examples.smtp",
+        "peekOfCode": "io = BytesIO(message)\nc.setopt(c.READDATA, io)\n# If UPLOAD is not set, libcurl performs SMTP VRFY.\n# Setting UPLOAD to True sends a message.\nc.setopt(c.UPLOAD, True)\n# Observe SMTP conversation.\nc.setopt(c.VERBOSE, True)\nc.perform()",
+        "detail": "venv.share.doc.pycurl.examples.smtp",
+        "documentation": {}
+    },
+    {
+        "label": "keyfunction",
+        "kind": 2,
+        "importPath": "venv.share.doc.pycurl.examples.ssh_keyfunction",
+        "description": "venv.share.doc.pycurl.examples.ssh_keyfunction",
+        "peekOfCode": "def keyfunction(known_key, found_key, match):\n    return c.KHSTAT_FINE\nc.setopt(c.SSH_KNOWNHOSTS, '.known_hosts')\nc.setopt(c.SSH_KEYFUNCTION, keyfunction)\nc.perform()",
+        "detail": "venv.share.doc.pycurl.examples.ssh_keyfunction",
+        "documentation": {}
+    },
+    {
+        "label": "sftp_server",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.ssh_keyfunction",
+        "description": "venv.share.doc.pycurl.examples.ssh_keyfunction",
+        "peekOfCode": "sftp_server = 'sftp://web.sourceforge.net'\nc = pycurl.Curl()\nc.setopt(c.URL, sftp_server)\nc.setopt(c.VERBOSE, True)\ndef keyfunction(known_key, found_key, match):\n    return c.KHSTAT_FINE\nc.setopt(c.SSH_KNOWNHOSTS, '.known_hosts')\nc.setopt(c.SSH_KEYFUNCTION, keyfunction)\nc.perform()",
+        "detail": "venv.share.doc.pycurl.examples.ssh_keyfunction",
+        "documentation": {}
+    },
+    {
+        "label": "c",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.ssh_keyfunction",
+        "description": "venv.share.doc.pycurl.examples.ssh_keyfunction",
+        "peekOfCode": "c = pycurl.Curl()\nc.setopt(c.URL, sftp_server)\nc.setopt(c.VERBOSE, True)\ndef keyfunction(known_key, found_key, match):\n    return c.KHSTAT_FINE\nc.setopt(c.SSH_KNOWNHOSTS, '.known_hosts')\nc.setopt(c.SSH_KEYFUNCTION, keyfunction)\nc.perform()",
+        "detail": "venv.share.doc.pycurl.examples.ssh_keyfunction",
+        "documentation": {}
+    },
+    {
+        "label": "CURLTransport",
+        "kind": 6,
+        "importPath": "venv.share.doc.pycurl.examples.xmlrpc_curl",
+        "description": "venv.share.doc.pycurl.examples.xmlrpc_curl",
+        "peekOfCode": "class CURLTransport(xmlrpclib.Transport):\n    \"\"\"Handles a cURL HTTP transaction to an XML-RPC server.\"\"\"\n    xmlrpc_h = [ \"Content-Type: text/xml\" ]\n    def __init__(self, username=None, password=None):\n        self.c = pycurl.Curl()\n        self.c.setopt(pycurl.POST, 1)\n        self.c.setopt(pycurl.NOSIGNAL, 1)\n        self.c.setopt(pycurl.CONNECTTIMEOUT, 30)\n        self.c.setopt(pycurl.HTTPHEADER, self.xmlrpc_h)\n        if username != None and password != None:",
+        "detail": "venv.share.doc.pycurl.examples.xmlrpc_curl",
+        "documentation": {}
+    },
+    {
+        "label": "PY3",
+        "kind": 5,
+        "importPath": "venv.share.doc.pycurl.examples.xmlrpc_curl",
+        "description": "venv.share.doc.pycurl.examples.xmlrpc_curl",
+        "peekOfCode": "PY3 = sys.version_info[0] > 2\nclass CURLTransport(xmlrpclib.Transport):\n    \"\"\"Handles a cURL HTTP transaction to an XML-RPC server.\"\"\"\n    xmlrpc_h = [ \"Content-Type: text/xml\" ]\n    def __init__(self, username=None, password=None):\n        self.c = pycurl.Curl()\n        self.c.setopt(pycurl.POST, 1)\n        self.c.setopt(pycurl.NOSIGNAL, 1)\n        self.c.setopt(pycurl.CONNECTTIMEOUT, 30)\n        self.c.setopt(pycurl.HTTPHEADER, self.xmlrpc_h)",
+        "detail": "venv.share.doc.pycurl.examples.xmlrpc_curl",
+        "documentation": {}
+    },
+    {
+        "label": "normal_dist",
+        "kind": 2,
+        "importPath": "g1",
+        "description": "g1",
+        "peekOfCode": "def normal_dist(x, mean, sd):\n    prob_density = (np.pi * sd) * np.exp(-0.5 * ((x - mean) / sd) ** 2)\n    return prob_density\n# Calculate mean and Standard deviation.\nmean = np.mean(x)\nsd = np.std(x)\n# Apply function to the data.\npdf = normal_dist(x, mean, sd)\n# Plotting the Results\nplt.plot(x, pdf, color='red')",
+        "detail": "g1",
+        "documentation": {}
+    },
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "g1",
+        "description": "g1",
+        "peekOfCode": "x = np.linspace(1, 50, 200)\n# Creating a Function.\ndef normal_dist(x, mean, sd):\n    prob_density = (np.pi * sd) * np.exp(-0.5 * ((x - mean) / sd) ** 2)\n    return prob_density\n# Calculate mean and Standard deviation.\nmean = np.mean(x)\nsd = np.std(x)\n# Apply function to the data.\npdf = normal_dist(x, mean, sd)",
+        "detail": "g1",
+        "documentation": {}
+    },
+    {
+        "label": "mean",
+        "kind": 5,
+        "importPath": "g1",
+        "description": "g1",
+        "peekOfCode": "mean = np.mean(x)\nsd = np.std(x)\n# Apply function to the data.\npdf = normal_dist(x, mean, sd)\n# Plotting the Results\nplt.plot(x, pdf, color='red')\nplt.xlabel('Data points')\nplt.ylabel('Probability Density')",
+        "detail": "g1",
+        "documentation": {}
+    },
+    {
+        "label": "sd",
+        "kind": 5,
+        "importPath": "g1",
+        "description": "g1",
+        "peekOfCode": "sd = np.std(x)\n# Apply function to the data.\npdf = normal_dist(x, mean, sd)\n# Plotting the Results\nplt.plot(x, pdf, color='red')\nplt.xlabel('Data points')\nplt.ylabel('Probability Density')",
+        "detail": "g1",
+        "documentation": {}
+    },
+    {
+        "label": "pdf",
+        "kind": 5,
+        "importPath": "g1",
+        "description": "g1",
+        "peekOfCode": "pdf = normal_dist(x, mean, sd)\n# Plotting the Results\nplt.plot(x, pdf, color='red')\nplt.xlabel('Data points')\nplt.ylabel('Probability Density')",
+        "detail": "g1",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "g2",
+        "description": "g2",
+        "peekOfCode": "df = sns.load_dataset(\"penguins\")\n# sns.distplot (random.normal(size=1000), hist=False)\nsns.histplot(\n    df[\"flipper_length_mm\"], kde=True,\n    stat=\"density\", kde_kws=dict(cut=3),\n    alpha=.4, edgecolor=(1, 1, 1, .4),\n)\nplt.show()\n# fig, ax = plt.subplots()  # Create a figure containing a single axes.\n# ax.plot([1, 2, 3, 4], [1, 4, 2, 3])  # Plot some data on the axes.",
+        "detail": "g2",
+        "documentation": {}
+    },
+    {
+        "label": "x_axis",
+        "kind": 5,
+        "importPath": "g3",
+        "description": "g3",
+        "peekOfCode": "x_axis = np.arange(-20, 20, 0.01)\n# Calculating mean and standard deviation\nmean = statistics.mean(x_axis)\nsd = statistics.stdev(x_axis)\nplt.plot(x_axis, norm.pdf(x_axis, mean, sd))\nplt.show()",
+        "detail": "g3",
+        "documentation": {}
+    },
+    {
+        "label": "mean",
+        "kind": 5,
+        "importPath": "g3",
+        "description": "g3",
+        "peekOfCode": "mean = statistics.mean(x_axis)\nsd = statistics.stdev(x_axis)\nplt.plot(x_axis, norm.pdf(x_axis, mean, sd))\nplt.show()",
+        "detail": "g3",
+        "documentation": {}
+    },
+    {
+        "label": "sd",
+        "kind": 5,
+        "importPath": "g3",
+        "description": "g3",
+        "peekOfCode": "sd = statistics.stdev(x_axis)\nplt.plot(x_axis, norm.pdf(x_axis, mean, sd))\nplt.show()",
+        "detail": "g3",
+        "documentation": {}
+    },
+    {
+        "label": "ont_list_header",
+        "kind": 5,
+        "importPath": "g5",
+        "description": "g5",
+        "peekOfCode": "ont_list_header = ['port', 'ont', 'date', 'rx']\npath = 'files/'\njson_files = glob.glob(path + 'olts20*.json')\n# load the json file\nont_list = []\nont_temp = []\naerage_value_list = []\noutput_lines = []\ndate_list = []\nfor f in json_files:",
+        "detail": "g5",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "kind": 5,
+        "importPath": "g5",
+        "description": "g5",
+        "peekOfCode": "path = 'files/'\njson_files = glob.glob(path + 'olts20*.json')\n# load the json file\nont_list = []\nont_temp = []\naerage_value_list = []\noutput_lines = []\ndate_list = []\nfor f in json_files:\n    # olt = []",
+        "detail": "g5",
+        "documentation": {}
+    },
+    {
+        "label": "json_files",
+        "kind": 5,
+        "importPath": "g5",
+        "description": "g5",
+        "peekOfCode": "json_files = glob.glob(path + 'olts20*.json')\n# load the json file\nont_list = []\nont_temp = []\naerage_value_list = []\noutput_lines = []\ndate_list = []\nfor f in json_files:\n    # olt = []\n    try:",
+        "detail": "g5",
+        "documentation": {}
+    },
+    {
+        "label": "ont_list",
+        "kind": 5,
+        "importPath": "g5",
+        "description": "g5",
+        "peekOfCode": "ont_list = []\nont_temp = []\naerage_value_list = []\noutput_lines = []\ndate_list = []\nfor f in json_files:\n    # olt = []\n    try:\n        ontjson = jsonfile_load(f)\n    except:",
+        "detail": "g5",
+        "documentation": {}
+    },
+    {
+        "label": "ont_temp",
+        "kind": 5,
+        "importPath": "g5",
+        "description": "g5",
+        "peekOfCode": "ont_temp = []\naerage_value_list = []\noutput_lines = []\ndate_list = []\nfor f in json_files:\n    # olt = []\n    try:\n        ontjson = jsonfile_load(f)\n    except:\n        continue",
+        "detail": "g5",
+        "documentation": {}
+    },
+    {
+        "label": "aerage_value_list",
+        "kind": 5,
+        "importPath": "g5",
+        "description": "g5",
+        "peekOfCode": "aerage_value_list = []\noutput_lines = []\ndate_list = []\nfor f in json_files:\n    # olt = []\n    try:\n        ontjson = jsonfile_load(f)\n    except:\n        continue\n    try:",
+        "detail": "g5",
+        "documentation": {}
+    },
+    {
+        "label": "output_lines",
+        "kind": 5,
+        "importPath": "g5",
+        "description": "g5",
+        "peekOfCode": "output_lines = []\ndate_list = []\nfor f in json_files:\n    # olt = []\n    try:\n        ontjson = jsonfile_load(f)\n    except:\n        continue\n    try:\n        olts = ontjson['olt']",
+        "detail": "g5",
+        "documentation": {}
+    },
+    {
+        "label": "date_list",
+        "kind": 5,
+        "importPath": "g5",
+        "description": "g5",
+        "peekOfCode": "date_list = []\nfor f in json_files:\n    # olt = []\n    try:\n        ontjson = jsonfile_load(f)\n    except:\n        continue\n    try:\n        olts = ontjson['olt']\n    except:",
+        "detail": "g5",
+        "documentation": {}
+    },
+    {
+        "label": "total_avg_date_list",
+        "kind": 5,
+        "importPath": "g5",
+        "description": "g5",
+        "peekOfCode": "total_avg_date_list = []\nfor dt in date_list:\n    value = 0\n    avg_date_list = []\n    for avglt in aerage_value_list:\n        for avg in avglt:\n            for av in avg:\n                if av[0] == dt:\n                    value += av[1]\n                    avg_date_list.append(av)",
+        "detail": "g5",
+        "documentation": {}
+    },
+    {
+        "label": "data",
+        "kind": 5,
+        "importPath": "g5",
+        "description": "g5",
+        "peekOfCode": "data = []\nport = ''\nont=''\nwith open(\"onts.csv\", 'r') as file:\n    csvreader = csv.reader(file)\n    header = next(csvreader)\n    for row in csvreader:\n        if len(row) >= 4:\n            port = row[0]\n            ont = row[1]",
+        "detail": "g5",
+        "documentation": {}
+    },
+    {
+        "label": "port",
+        "kind": 5,
+        "importPath": "g5",
+        "description": "g5",
+        "peekOfCode": "port = ''\nont=''\nwith open(\"onts.csv\", 'r') as file:\n    csvreader = csv.reader(file)\n    header = next(csvreader)\n    for row in csvreader:\n        if len(row) >= 4:\n            port = row[0]\n            ont = row[1]\n            val = \"{:.2f}\".format(float(row[3]))",
+        "detail": "g5",
+        "documentation": {}
+    },
+    {
+        "label": "data",
+        "kind": 5,
+        "importPath": "g5",
+        "description": "g5",
+        "peekOfCode": "data = np.array(data, dtype=float)\n# Fit a normal distribution to\n# the data:\n# mean and standard deviation\nmu, std = norm.fit(data)\n# Plot the histogram.\nplt.hist(data, bins=25, density=True, alpha=0.6, color='b')\n# Plot the PDF.\nxmin, xmax = plt.xlim()\nx = np.linspace(xmin, xmax, 100)",
+        "detail": "g5",
+        "documentation": {}
+    },
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "g5",
+        "description": "g5",
+        "peekOfCode": "x = np.linspace(xmin, xmax, 100)\np = norm.pdf(x, mu, std)\nplt.plot(x, p, 'k', linewidth=2)\n# title = \"Fit Values: {:.2f} and {:.2f}\".format(mu, std)\ntitle = \"port={}, ont={} (\\u03BC= {:.2f}, \\u03C3= {:.2f})\".format(port,ont,mu, std)\nplt.title(title)\nplt.show()",
+        "detail": "g5",
+        "documentation": {}
+    },
+    {
+        "label": "p",
+        "kind": 5,
+        "importPath": "g5",
+        "description": "g5",
+        "peekOfCode": "p = norm.pdf(x, mu, std)\nplt.plot(x, p, 'k', linewidth=2)\n# title = \"Fit Values: {:.2f} and {:.2f}\".format(mu, std)\ntitle = \"port={}, ont={} (\\u03BC= {:.2f}, \\u03C3= {:.2f})\".format(port,ont,mu, std)\nplt.title(title)\nplt.show()",
+        "detail": "g5",
+        "documentation": {}
+    },
+    {
+        "label": "title",
+        "kind": 5,
+        "importPath": "g5",
+        "description": "g5",
+        "peekOfCode": "title = \"port={}, ont={} (\\u03BC= {:.2f}, \\u03C3= {:.2f})\".format(port,ont,mu, std)\nplt.title(title)\nplt.show()",
+        "detail": "g5",
+        "documentation": {}
+    },
+    {
+        "label": "Gaussian",
+        "kind": 6,
+        "importPath": "g6_allontrx",
+        "description": "g6_allontrx",
+        "peekOfCode": "class Gaussian(object):\n    def __init__(self, jsonfiles=list_of_files):\n        jsonfiles = [x for x in jsonfiles if x.startswith('olts20')]\n        self.jsonfiles = []\n        self.oltjson_list = []\n        for f in jsonfiles:\n            _f = '%s%s' % (path, f)\n            try:\n                ontjson = jsonfile_load(_f)\n                self.jsonfiles.append(_f)",
+        "detail": "g6_allontrx",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 5,
+        "importPath": "g6_allontrx",
+        "description": "g6_allontrx",
+        "peekOfCode": "site = 'feb'\nont_list_header = ['port', 'ont', 'date', 'rx']\npath = 'files/'\n# json_files = glob.glob(path + 'olts20*.json')\n#\n# files = list(filter(os.path.isfile, glob.glob(path + \"olts20*.json\")))\n# files.sort(key=os.path.getctime)\n# print(files)\nlist_of_files = sorted(filter(lambda x: os.path.isfile(os.path.join(path, x)), os.listdir(path)))\nclass Gaussian(object):",
+        "detail": "g6_allontrx",
+        "documentation": {}
+    },
+    {
+        "label": "ont_list_header",
+        "kind": 5,
+        "importPath": "g6_allontrx",
+        "description": "g6_allontrx",
+        "peekOfCode": "ont_list_header = ['port', 'ont', 'date', 'rx']\npath = 'files/'\n# json_files = glob.glob(path + 'olts20*.json')\n#\n# files = list(filter(os.path.isfile, glob.glob(path + \"olts20*.json\")))\n# files.sort(key=os.path.getctime)\n# print(files)\nlist_of_files = sorted(filter(lambda x: os.path.isfile(os.path.join(path, x)), os.listdir(path)))\nclass Gaussian(object):\n    def __init__(self, jsonfiles=list_of_files):",
+        "detail": "g6_allontrx",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "kind": 5,
+        "importPath": "g6_allontrx",
+        "description": "g6_allontrx",
+        "peekOfCode": "path = 'files/'\n# json_files = glob.glob(path + 'olts20*.json')\n#\n# files = list(filter(os.path.isfile, glob.glob(path + \"olts20*.json\")))\n# files.sort(key=os.path.getctime)\n# print(files)\nlist_of_files = sorted(filter(lambda x: os.path.isfile(os.path.join(path, x)), os.listdir(path)))\nclass Gaussian(object):\n    def __init__(self, jsonfiles=list_of_files):\n        jsonfiles = [x for x in jsonfiles if x.startswith('olts20')]",
+        "detail": "g6_allontrx",
+        "documentation": {}
+    },
+    {
+        "label": "list_of_files",
+        "kind": 5,
+        "importPath": "g6_allontrx",
+        "description": "g6_allontrx",
+        "peekOfCode": "list_of_files = sorted(filter(lambda x: os.path.isfile(os.path.join(path, x)), os.listdir(path)))\nclass Gaussian(object):\n    def __init__(self, jsonfiles=list_of_files):\n        jsonfiles = [x for x in jsonfiles if x.startswith('olts20')]\n        self.jsonfiles = []\n        self.oltjson_list = []\n        for f in jsonfiles:\n            _f = '%s%s' % (path, f)\n            try:\n                ontjson = jsonfile_load(_f)",
+        "detail": "g6_allontrx",
+        "documentation": {}
+    },
+    {
+        "label": "gaussian",
+        "kind": 2,
+        "importPath": "gaussian",
+        "description": "gaussian",
+        "peekOfCode": "def gaussian(x, n):\n    u = x.mean()\n    s = x.std()\n    # divide [x.min(), x.max()] by n\n    x = np.linspace(x.min(), x.max(), n)\n    a = ((x - u) ** 2) / (2 * (s ** 2))\n    y = 1 / (s * np.sqrt(2 * np.pi)) * np.exp(-a)\n    return x, y, x.mean(), x.std()\nx = np.arange(-100, 100)  # define range of x\nx, y, u, s = gaussian(x, 10000)",
+        "detail": "gaussian",
+        "documentation": {}
+    },
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "gaussian",
+        "description": "gaussian",
+        "peekOfCode": "x = np.arange(-100, 100)  # define range of x\nx, y, u, s = gaussian(x, 10000)\nplt.plot(x, y, label=r'$\\mu=%.2f,\\ \\sigma=%.2f$' % (u, s))\nplt.legend()\nplt.savefig('graph/gaussian.png')\nplt.show()",
+        "detail": "gaussian",
+        "documentation": {}
+    },
+    {
+        "label": "Gaussian",
+        "kind": 6,
+        "importPath": "gaussian_gpon",
+        "description": "gaussian_gpon",
+        "peekOfCode": "class Gaussian(object):\n    def __init__(self, *args, **kwargs):\n        pass\n    def gaussian(self, x, n):\n        u = x.mean()\n        s = x.std()\n        # divide [x.min(), x.max()] by n\n        x = np.linspace(x.min(), x.max(), n)\n        a = ((x - u) ** 2) / (2 * (s ** 2))\n        y = 1 / (s * np.sqrt(2 * np.pi)) * np.exp(-a)",
+        "detail": "gaussian_gpon",
+        "documentation": {}
+    },
+    {
+        "label": "normal",
+        "kind": 2,
+        "importPath": "normal",
+        "description": "normal",
+        "peekOfCode": "def normal(x, n):\n    u = x.mean()\n    s = x.std()\n    # normalization\n    x = (x - u) / s\n    # divide [x.min(), x.max()] by n\n    x = np.linspace(x.min(), x.max(), n)\n    a = ((x - 0) ** 2) / (2 * (1 ** 2))\n    y = 1 / (s * np.sqrt(2 * np.pi)) * np.exp(-a)\n    return x, y, x.mean(), x.std()",
+        "detail": "normal",
+        "documentation": {}
+    },
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "normal",
+        "description": "normal",
+        "peekOfCode": "x = np.arange(-100, 100) # define range of x\nx, y, u, s = normal(x, 10000)\nplt.plot(x, y, label=r'$\\mu=%.2f,\\ \\sigma=%.2f$' % (u, s))\nplt.legend()\nplt.savefig('graph/normal.png')\nplt.show()",
+        "detail": "normal",
+        "documentation": {}
+    },
+    {
+        "label": "mu",
+        "kind": 5,
+        "importPath": "normal_curve",
+        "description": "normal_curve",
+        "peekOfCode": "mu = 998.8\nsigma = 73.10\nx1 = 900\nx2 = 1100\n# calculate the z-transform\nz1 = ( x1 - mu ) / sigma\nz2 = ( x2 - mu ) / sigma\nx = np.arange(z1, z2, 0.001) # range of x in spec\nx_all = np.arange(-10, 10, 0.001) # entire range of x, both in and out of spec\n# mean = 0, stddev = 1, since Z-transform was calculated",
+        "detail": "normal_curve",
+        "documentation": {}
+    },
+    {
+        "label": "sigma",
+        "kind": 5,
+        "importPath": "normal_curve",
+        "description": "normal_curve",
+        "peekOfCode": "sigma = 73.10\nx1 = 900\nx2 = 1100\n# calculate the z-transform\nz1 = ( x1 - mu ) / sigma\nz2 = ( x2 - mu ) / sigma\nx = np.arange(z1, z2, 0.001) # range of x in spec\nx_all = np.arange(-10, 10, 0.001) # entire range of x, both in and out of spec\n# mean = 0, stddev = 1, since Z-transform was calculated\ny = norm.pdf(x,0,1)",
+        "detail": "normal_curve",
+        "documentation": {}
+    },
+    {
+        "label": "x1",
+        "kind": 5,
+        "importPath": "normal_curve",
+        "description": "normal_curve",
+        "peekOfCode": "x1 = 900\nx2 = 1100\n# calculate the z-transform\nz1 = ( x1 - mu ) / sigma\nz2 = ( x2 - mu ) / sigma\nx = np.arange(z1, z2, 0.001) # range of x in spec\nx_all = np.arange(-10, 10, 0.001) # entire range of x, both in and out of spec\n# mean = 0, stddev = 1, since Z-transform was calculated\ny = norm.pdf(x,0,1)\ny2 = norm.pdf(x_all,0,1)",
+        "detail": "normal_curve",
+        "documentation": {}
+    },
+    {
+        "label": "x2",
+        "kind": 5,
+        "importPath": "normal_curve",
+        "description": "normal_curve",
+        "peekOfCode": "x2 = 1100\n# calculate the z-transform\nz1 = ( x1 - mu ) / sigma\nz2 = ( x2 - mu ) / sigma\nx = np.arange(z1, z2, 0.001) # range of x in spec\nx_all = np.arange(-10, 10, 0.001) # entire range of x, both in and out of spec\n# mean = 0, stddev = 1, since Z-transform was calculated\ny = norm.pdf(x,0,1)\ny2 = norm.pdf(x_all,0,1)\n# build the plot",
+        "detail": "normal_curve",
+        "documentation": {}
+    },
+    {
+        "label": "z1",
+        "kind": 5,
+        "importPath": "normal_curve",
+        "description": "normal_curve",
+        "peekOfCode": "z1 = ( x1 - mu ) / sigma\nz2 = ( x2 - mu ) / sigma\nx = np.arange(z1, z2, 0.001) # range of x in spec\nx_all = np.arange(-10, 10, 0.001) # entire range of x, both in and out of spec\n# mean = 0, stddev = 1, since Z-transform was calculated\ny = norm.pdf(x,0,1)\ny2 = norm.pdf(x_all,0,1)\n# build the plot\nfig, ax = plt.subplots(figsize=(9,6))\nplt.style.use('fivethirtyeight')",
+        "detail": "normal_curve",
+        "documentation": {}
+    },
+    {
+        "label": "z2",
+        "kind": 5,
+        "importPath": "normal_curve",
+        "description": "normal_curve",
+        "peekOfCode": "z2 = ( x2 - mu ) / sigma\nx = np.arange(z1, z2, 0.001) # range of x in spec\nx_all = np.arange(-10, 10, 0.001) # entire range of x, both in and out of spec\n# mean = 0, stddev = 1, since Z-transform was calculated\ny = norm.pdf(x,0,1)\ny2 = norm.pdf(x_all,0,1)\n# build the plot\nfig, ax = plt.subplots(figsize=(9,6))\nplt.style.use('fivethirtyeight')\nax.plot(x_all,y2)",
+        "detail": "normal_curve",
+        "documentation": {}
+    },
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "normal_curve",
+        "description": "normal_curve",
+        "peekOfCode": "x = np.arange(z1, z2, 0.001) # range of x in spec\nx_all = np.arange(-10, 10, 0.001) # entire range of x, both in and out of spec\n# mean = 0, stddev = 1, since Z-transform was calculated\ny = norm.pdf(x,0,1)\ny2 = norm.pdf(x_all,0,1)\n# build the plot\nfig, ax = plt.subplots(figsize=(9,6))\nplt.style.use('fivethirtyeight')\nax.plot(x_all,y2)\nax.fill_between(x,y,0, alpha=0.3, color='b')",
+        "detail": "normal_curve",
+        "documentation": {}
+    },
+    {
+        "label": "x_all",
+        "kind": 5,
+        "importPath": "normal_curve",
+        "description": "normal_curve",
+        "peekOfCode": "x_all = np.arange(-10, 10, 0.001) # entire range of x, both in and out of spec\n# mean = 0, stddev = 1, since Z-transform was calculated\ny = norm.pdf(x,0,1)\ny2 = norm.pdf(x_all,0,1)\n# build the plot\nfig, ax = plt.subplots(figsize=(9,6))\nplt.style.use('fivethirtyeight')\nax.plot(x_all,y2)\nax.fill_between(x,y,0, alpha=0.3, color='b')\nax.fill_between(x_all,y2,0, alpha=0.1)",
+        "detail": "normal_curve",
+        "documentation": {}
+    },
+    {
+        "label": "y",
+        "kind": 5,
+        "importPath": "normal_curve",
+        "description": "normal_curve",
+        "peekOfCode": "y = norm.pdf(x,0,1)\ny2 = norm.pdf(x_all,0,1)\n# build the plot\nfig, ax = plt.subplots(figsize=(9,6))\nplt.style.use('fivethirtyeight')\nax.plot(x_all,y2)\nax.fill_between(x,y,0, alpha=0.3, color='b')\nax.fill_between(x_all,y2,0, alpha=0.1)\nax.set_xlim([-4,4])\nax.set_xlabel('# of Standard Deviations Outside the Mean')",
+        "detail": "normal_curve",
+        "documentation": {}
+    },
+    {
+        "label": "y2",
+        "kind": 5,
+        "importPath": "normal_curve",
+        "description": "normal_curve",
+        "peekOfCode": "y2 = norm.pdf(x_all,0,1)\n# build the plot\nfig, ax = plt.subplots(figsize=(9,6))\nplt.style.use('fivethirtyeight')\nax.plot(x_all,y2)\nax.fill_between(x,y,0, alpha=0.3, color='b')\nax.fill_between(x_all,y2,0, alpha=0.1)\nax.set_xlim([-4,4])\nax.set_xlabel('# of Standard Deviations Outside the Mean')\nax.set_yticklabels([])",
+        "detail": "normal_curve",
+        "documentation": {}
+    },
+    {
+        "label": "GetONTInfo",
+        "kind": 6,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "class GetONTInfo:\n    format = \"%d/%m/%Y %H:%M:%S\"\n    username = \"root\"\n    unamepw = \"mduadmin\"\n    cmdlist = []\n    iplist = []\n    iplist_json = []\n    sleeptime = 1\n    output_all = []\n    output = []",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "FileName",
+        "kind": 6,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "class FileName:\n    def __init__(self, base_fn='m2ontinfosum%s.txt' % ts, root_dir='gponfiles'):\n        self.full_fn = '.\\\\%s\\\\%s' % (root_dir, base_fn)\n    @property\n    def full_name(self):\n        return self.full_fn\nclass GponFileName:\n    def __init__(self, base_fn='m2ontinfosum*.txt', root_dir='gponfiles'):\n        _f = '.\\\\%s\\\\%s' % (root_dir, base_fn)\n        self._txt_fn = get_filename(_f)",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "GponFileName",
+        "kind": 6,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "class GponFileName:\n    def __init__(self, base_fn='m2ontinfosum*.txt', root_dir='gponfiles'):\n        _f = '.\\\\%s\\\\%s' % (root_dir, base_fn)\n        self._txt_fn = get_filename(_f)\n        _ts = self._txt_fn[-14:-4]\n        self._gpn_fn = '.\\\\%s\\\\m2_gpon%s.json' % (root_dir, _ts)\n        self._csv_fn = '.\\\\%s\\\\m2_gpon%s.csv' % (root_dir, _ts)\n        self.dt = datetime.fromtimestamp(int(_ts)).strftime('%Y-%m-%d')\n    @property\n    def txt_fn(self):",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "FEBGponFileName",
+        "kind": 6,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "class FEBGponFileName:\n    def __init__(self, base_fn='febontinfosum*.txt', root_dir='gponfiles'):\n        _f = '.\\\\%s\\\\%s' % (root_dir, base_fn)\n        self._txt_fn = get_filename(_f)\n        _ts = self._txt_fn[-14:-4]\n        self._gpn_fn = '.\\\\%s\\\\feb_gpon%s.json' % (root_dir, _ts)\n        self._csv_fn = '.\\\\%s\\\\feb_gpon%s.csv' % (root_dir, _ts)\n        self.dt = datetime.fromtimestamp(int(_ts)).strftime('%Y-%m-%d')\n    @property\n    def txt_fn(self):",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "AlarmFileName",
+        "kind": 6,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "class AlarmFileName:\n    def __init__(self, base_fn='m2ontinfosum*.txt', root_dir='gponfiles'):\n        _f = '.\\\\%s\\\\%s' % (root_dir, base_fn)\n        self._txt_fn = get_filename(_f)\n        _ts = self._txt_fn[-14:-4]\n        self._gpn_fn = '.\\\\%s\\\\m2_gpon%s.json' % (root_dir, _ts)\n        self._csv_fn = '.\\\\%s\\\\m2_gpon%s.csv' % (root_dir, _ts)\n        self.dt = datetime.fromtimestamp(int(_ts)).strftime('%Y-%m-%d')\n    @property\n    def txt_fn(self):",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "pingOk",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def pingOk(sHost):\n    import subprocess, platform\n    try:\n        output = subprocess.check_output(\n            \"ping -{} 1 {}\".format('n' if platform.system().lower() == \"windows\" else 'c', sHost), shell=True)\n    except Exception as e:\n        return False\n    return True\ndef get_ont_name(the_rx_dict, the_lines):\n    match = get_matched(the_rx_dict, the_lines, 'ont_name')",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_ont_name",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def get_ont_name(the_rx_dict, the_lines):\n    match = get_matched(the_rx_dict, the_lines, 'ont_name')\n    if match:\n        return match.string.split('#')[0]\n    return None\ndef get_matched(the_rx_dict, the_lines, the_key):\n    for line in the_lines:\n        key, match = parse_line(the_rx_dict, line)\n        if key == the_key:\n            return match",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_matched",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def get_matched(the_rx_dict, the_lines, the_key):\n    for line in the_lines:\n        key, match = parse_line(the_rx_dict, line)\n        if key == the_key:\n            return match\n    return None\ndef parse_line(rx_dict, line):\n    \"\"\"\n    Do a regex search against all defined regexes and\n    return the key and match result of the first matching regex",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "parse_line",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def parse_line(rx_dict, line):\n    \"\"\"\n    Do a regex search against all defined regexes and\n    return the key and match result of the first matching regex\n    \"\"\"\n    for key, rx in rx_dict.items():\n        match = rx.search(line)\n        if match:\n            return key, match\n    # if there are no matches",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "validate_ipv4",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def validate_ipv4(ipv4, debug=False):\n    import ipaddress\n    import sys\n    isIP = False\n    try:\n        ip = ipaddress.ip_address(ipv4)\n        print('%s is a correct IP%s address.' % (ip, ip.version)) if debug else None\n        isIP = True\n    except ValueError as e:\n        logging.error('address/netmask is invalid: %s' % sys.argv[1])",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "set_ip_json",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def set_ip_json(input_all, rx_dict, ip):\n    ont = {\"ip\": ip}\n    lines = input_all.decode(\"utf-8\")\n    linesarr = ''.join(lines).split('\\r\\n')\n    # n = get_ont_name(rx_dict, linesarr)\n    ont[\"name\"] = get_ont_name(rx_dict, linesarr)\n    return ont\ndef cmd_scroll(tn, length=0):\n    tn.write(b\"scroll %s \" % length + b\"\\n\")\n    tn.read_until(b\":\", 5)",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "cmd_scroll",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def cmd_scroll(tn, length=0):\n    tn.write(b\"scroll %s \" % length + b\"\\n\")\n    tn.read_until(b\":\", 5)\n    tn.write(b\"\" + b\"\\n\")\n    time.sleep(0.5)\ndef cmd_undoscroll(tn):\n    tn.write(b\"undo scroll\" + b\"\\n\")\n    tn.read_until(b\":\", 5)\n    tn.write(b\"\" + b\"\\n\")\n    time.sleep(0.5)",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "cmd_undoscroll",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def cmd_undoscroll(tn):\n    tn.write(b\"undo scroll\" + b\"\\n\")\n    tn.read_until(b\":\", 5)\n    tn.write(b\"\" + b\"\\n\")\n    time.sleep(0.5)\ndef filter_line(original, rekey=r'^\\s*$'):\n    return list(filter(lambda x: not re.match(rekey, x), original))\ndef ssh_login(hostip='192.168.190.5', port=22, user='nmsuser2', pwd='ESPL888espl'):\n    import paramiko\n    ssh = paramiko.SSHClient()",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "filter_line",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def filter_line(original, rekey=r'^\\s*$'):\n    return list(filter(lambda x: not re.match(rekey, x), original))\ndef ssh_login(hostip='192.168.190.5', port=22, user='nmsuser2', pwd='ESPL888espl'):\n    import paramiko\n    ssh = paramiko.SSHClient()\n    ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())\n    ssh.connect(hostname=hostip, port=port, username=user, password=pwd, compress=True)\n    ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())\n    print(\"Successfully logged into OLT\")\n    command = ssh.invoke_shell()",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "ssh_login",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def ssh_login(hostip='192.168.190.5', port=22, user='nmsuser2', pwd='ESPL888espl'):\n    import paramiko\n    ssh = paramiko.SSHClient()\n    ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())\n    ssh.connect(hostname=hostip, port=port, username=user, password=pwd, compress=True)\n    ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())\n    print(\"Successfully logged into OLT\")\n    command = ssh.invoke_shell()\n    command.send(\"enable \\n\")\n    command.send(\"scroll \\n\\n\")",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "jsonfile_dump",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def jsonfile_dump(allontlist, file_nm=\"opticsovh_ont.json\"):\n    if len(allontlist) < 0:\n        print(\"empty data?\")\n        return\n    with open(file_nm, 'w') as f:\n        json.dump(allontlist, f)\ndef jsonfile_load(fn):\n    # print(\"jsonfile_load:\", fn)\n    with open(fn, 'r') as f:\n        try:",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "jsonfile_load",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def jsonfile_load(fn):\n    # print(\"jsonfile_load:\", fn)\n    with open(fn, 'r') as f:\n        try:\n            jsonobject = json.load(f)\n        except Exception as e:\n            print(\"error\", e, f)\n    return jsonobject\ndef is_mdu(ont):\n    return ont[\"status\"] != \"offline\" and ont[\"type\"] in [\"5626\", \"EA5821\"]",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "is_mdu",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def is_mdu(ont):\n    return ont[\"status\"] != \"offline\" and ont[\"type\"] in [\"5626\", \"EA5821\"]\ndef read_csv(filename):\n    with open(filename, 'r') as f:\n        # reads csv into a list of lists\n        lines = csv.reader(f, delimiter=',')\n        return list(lines)[1:]  # removes the header row # removes the header\ndef write_csv(row_list, filename):\n    \"\"\"\n    format:",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "read_csv",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def read_csv(filename):\n    with open(filename, 'r') as f:\n        # reads csv into a list of lists\n        lines = csv.reader(f, delimiter=',')\n        return list(lines)[1:]  # removes the header row # removes the header\ndef write_csv(row_list, filename):\n    \"\"\"\n    format:\n    row_list = [[\"SN\", \"Name\", \"Contribution\"],\n             [1, \"Linus Torvalds\", \"Linux Kernel\"],",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "write_csv",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def write_csv(row_list, filename):\n    \"\"\"\n    format:\n    row_list = [[\"SN\", \"Name\", \"Contribution\"],\n             [1, \"Linus Torvalds\", \"Linux Kernel\"],\n             [2, \"Tim Berners-Lee\", \"World Wide Web\"],\n             [3, \"Guido van Rossum\", \"Python Programming\"]]\n    :param datelines:\n    :param filename:\n    :return:",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "write_csv1",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def write_csv1(datalines, filename):\n    with open(filename, 'w') as csvfile:\n        fieldnames = ['first_name', 'last_name']\n        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)\n        writer.writeheader()\n        writer.writerow({'first_name': 'Baked', 'last_name': 'Beans'})\n        writer.writerow({'first_name': 'Lovely', 'last_name': 'Spam'})\n        writer.writerow({'first_name': 'Wonderful', 'last_name': 'Spam'})\n# write directly into the file\ndef write_csv2(*argv, filename):",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "write_csv2",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def write_csv2(*argv, filename):\n    for arg in argv:\n        print(arg)\n    # TODO how to extract the columes\n    # np.savetxt('data.csv', (col1_array, col2_array, col3_array), delimiter=',')\ndef write_csv3(lines, filename):\n    with open(filename, 'w', newline='') as csvfile:\n        csvwriter = csv.writer(csvfile, delimiter=',')\n        for line in lines:\n            csvwriter.writerow(line)",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "write_csv3",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def write_csv3(lines, filename):\n    with open(filename, 'w', newline='') as csvfile:\n        csvwriter = csv.writer(csvfile, delimiter=',')\n        for line in lines:\n            csvwriter.writerow(line)\ndef func(*args):\n    x = []  # emplty list\n    for i in args:\n        i = i * 2\n        x.append(i)",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "func",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def func(*args):\n    x = []  # emplty list\n    for i in args:\n        i = i * 2\n        x.append(i)\n        y = tuple(x)  # converting back list into tuple\n    return y\ndef concatenate(**kwargs):\n    result = \"\"\n    # Iterating over the Python kwargs dictionary",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "concatenate",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def concatenate(**kwargs):\n    result = \"\"\n    # Iterating over the Python kwargs dictionary\n    for arg in kwargs.values():\n        result += arg\n    return result\n# print(concatenate(a=\"Real\", b=\"Python\", c=\"Is\", d=\"Great\", e=\"!\"))\ndef get_vlandata(site: str):\n    vlan_data = jsonfile_load('uob_vlan.json')\n    if site.find('feb') > -1:",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_vlandata",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def get_vlandata(site: str):\n    vlan_data = jsonfile_load('uob_vlan.json')\n    if site.find('feb') > -1:\n        _site = 'feb'\n    if site.find('m2') > -1:\n        _site = 'm2'\n    return vlan_data[_site]\ndef clean_data(data, fsp, ontid, vlanid):\n    # Process csv into python readable format\n    # data = read_csv(filename)",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "clean_data",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def clean_data(data, fsp, ontid, vlanid):\n    # Process csv into python readable format\n    # data = read_csv(filename)\n    # Check that none of the column is empty\n    data = list(\n        filter(lambda x: x[0] != \"\" and x[1] != \"\" and x[2] != \"\" and x[3] != \"\" and x[4] != \"\" and x[5] != \"\", data))\n    # another way using a second filter\n    # data = list(filter(lambda x: len(list(filter(lambda y:y!=\"\",x)))==6,data))\n    # Check that movie is within timespan\n    # data = list(filter(lambda x: 1990<= int(x[5])<=2019, data))",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "set_env",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def set_env():\n    \"\"\"\n    # read env file\n    # https://stackoverflow.com/questions/40216311/reading-in-environment-variables-from-an-environment-file\n    :return:\n    \"\"\"\n    with open('token.txt', 'r') as fh:\n        vars_dict = dict(tuple((line.strip().split('='))) for line in fh.readlines() if not line.startswith('#'))\n    os.environ.update(vars_dict)\ndef read_txt_file():",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "read_txt_file",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def read_txt_file():\n    env_vars = []\n    with open(\"token.txt\") as f:\n        for line in f:\n            if line.startswith('#') or not line.strip():\n                continue\n            key, value = line.strip().split('=', 1)\n            env_vars.append({'name': key, 'value': value})\n    return env_vars\ndef sendmails(content_fn='m2_subsystem.csv', contacts_file_fn=\"m2_email_contacts.csv\"):",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "sendmails",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def sendmails(content_fn='m2_subsystem.csv', contacts_file_fn=\"m2_email_contacts.csv\"):\n    global email\n    subject = \"M2 Sub-system Summary of the day\"\n    with open(contacts_file_fn) as file:\n        reader = csv.reader(file)\n        next(reader)  # Skip header row\n        for name, email in reader:\n            print(format(datetime.now().strftime(\"%Y-%m-%d %H:%M\")),\n                  f\"Sending email to {name}\")\n            mailbody = \"\"",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "send_email",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def send_email(mailbody, email_address='liqin@hotmail.sg', subject='M2 Sub-system Summary of the day'):\n    port = 587  # For starttls\n    smtp_server = \"smtp.gmail.com\"\n    sender_email = \"ectiviseservice@gmail.com\"\n    receiver_email = email_address\n    password = \"ESPL888espl\"\n    message = MIMEMultipart(\"alternative\")\n    message[\"Subject\"] = subject\n    part2 = MIMEText(mailbody, \"html\")\n    message.attach(part2)",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_filename",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def get_filename(base_filenm):\n    file_list = [optic_fn for optic_fn in iglob(base_filenm) if os.path.isfile(optic_fn)]\n    root_dir = './'\n    try:\n        assert len(file_list) > 0, 'no file found'\n        return file_list[len(file_list) - 1]\n    except:\n        pass\ndef get_filename_data_fullpath(base_filenm, root_dir='.\\\\', lastone=-1):\n    _basefilenm = '.\\\\%s\\\\%s' % (root_dir, base_filenm)",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_filename_data_fullpath",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def get_filename_data_fullpath(base_filenm, root_dir='.\\\\', lastone=-1):\n    _basefilenm = '.\\\\%s\\\\%s' % (root_dir, base_filenm)\n    file_list = [optic_fn for optic_fn in iglob(_basefilenm)]\n    if len(file_list) > lastone + 1:\n        fn = file_list[len(file_list) + lastone]\n        jsonobj = jsonfile_load(fn)\n        return fn, jsonobj\ndef get_2filename(base_filenm):\n    file_list = [optic_fn for optic_fn in iglob(base_filenm) if os.path.isfile(optic_fn)]\n    assert len(file_list) > 0, 'no file found'",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_2filename",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def get_2filename(base_filenm):\n    file_list = [optic_fn for optic_fn in iglob(base_filenm) if os.path.isfile(optic_fn)]\n    assert len(file_list) > 0, 'no file found'\n    return file_list[len(file_list) - 1], file_list[len(file_list) - 2]\ndef read_file(filename):\n    with open(filename, 'r') as FILE:\n        return FILE.readlines()\ndef read_csv_file(csv_fn):\n    data = []\n    try:",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "read_file",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def read_file(filename):\n    with open(filename, 'r') as FILE:\n        return FILE.readlines()\ndef read_csv_file(csv_fn):\n    data = []\n    try:\n        with open(csv_fn, encoding='utf-8') as csvf:\n            csvReader = csv.DictReader(csvf)\n            for rows in csvReader:\n                d = {}",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "read_csv_file",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def read_csv_file(csv_fn):\n    data = []\n    try:\n        with open(csv_fn, encoding='utf-8') as csvf:\n            csvReader = csv.DictReader(csvf)\n            for rows in csvReader:\n                d = {}\n                for k, v in rows.items():\n                    # print(k,v)\n                    d[k] = v",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "gmsend",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def gmsend(email_address, mailbody):\n    port = 587  # For starttls\n    smtp_server = \"smtp.gmail.com\"\n    sender_email = \"ectiviseservice@gmail.com\"\n    # receiver_email = \"nmsectivise@gmail.com\"\n    receiver_email = email_address\n    password = \"ESPL888espl\"\n    message = MIMEMultipart(\"alternative\")\n    message[\"Subject\"] = \"M2 Sub System Summary update \"\n    part2 = MIMEText(mailbody, \"html\")",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "copy_file",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def copy_file(src, dst):\n    shutil.copyfile(src, dst)\ndef textfile_read(input_txt_fn):\n    with open(input_txt_fn, 'r') as _file:\n        _file.seek(0)\n        ontinfo_txt_lines = _file.readlines()\n    return ontinfo_txt_lines\ndef textfile_write(out_txt_fn, txtdata):\n    with open(out_txt_fn, 'w') as _file:\n        _file.write(txtdata)",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "textfile_read",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def textfile_read(input_txt_fn):\n    with open(input_txt_fn, 'r') as _file:\n        _file.seek(0)\n        ontinfo_txt_lines = _file.readlines()\n    return ontinfo_txt_lines\ndef textfile_write(out_txt_fn, txtdata):\n    with open(out_txt_fn, 'w') as _file:\n        _file.write(txtdata)\ndef get_session(un='nmsuser2'):\n    ssh = paramiko.SSHClient()",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "textfile_write",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def textfile_write(out_txt_fn, txtdata):\n    with open(out_txt_fn, 'w') as _file:\n        _file.write(txtdata)\ndef get_session(un='nmsuser2'):\n    ssh = paramiko.SSHClient()\n    ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())\n    ssh.connect(hostname='192.168.190.5', port=22, username=un, password='ESPL888espl', compress=True)\n    ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())\n    print(\"Successfully logged into OLT\")\n    command = ssh.invoke_shell()",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_session",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def get_session(un='nmsuser2'):\n    ssh = paramiko.SSHClient()\n    ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())\n    ssh.connect(hostname='192.168.190.5', port=22, username=un, password='ESPL888espl', compress=True)\n    ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())\n    print(\"Successfully logged into OLT\")\n    command = ssh.invoke_shell()\n    command.send(\"enable \\n\")\n    command.send(\"scroll \\n\\n\")\n    return command, ssh",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_session_v2",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def get_session_v2(ipv4='192.168.190.5', un='nmsuser2', pwd='ESPL888espl'):\n    try:\n        ssh = paramiko.SSHClient()\n        ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())\n        ssh.connect(hostname=ipv4, port=22, username=un, password=pwd, compress=True)\n        ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())\n        print(\"Successfully logged into OLT %s\" % ipv4)\n        command = ssh.invoke_shell()\n        command.send(\"enable \\n\")\n        command.send(\"scroll \\n\\n\")",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "telegram_bot_sendtext",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def telegram_bot_sendtext(bot_message, parse_mode='Markdownv2',\n                          bot_token='1064925388%3AAAFH1YRPLABL6lq9rqrdtlIopsJIypJZWhg', bot_chatID='-409097351',\n                          dbg=False):\n    send_text = 'https://api.telegram.org/bot%s/sendMessage?chat_id=%s&parse_mode=%s&text=%s' % (\n        bot_token, bot_chatID, parse_mode, bot_message)\n    response = requests.get(send_text)\n    msg = response.json()\n    msg = msg['ok']\n    print(response.text) if dbg else None\n    return msg",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "send_telegram_api",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def send_telegram_api(msg='[TEST MSG,PLS IGNORE 20210918-02]',\n                      teletoken='1064925388%3AAAFH1YRPLABL6lq9rqrdtlIopsJIypJZWhg', chatid='-409097351', mydebug=True):\n    url = \"https://telegrambot.ectivisecloud.com/v2/telegrambot\"\n    payload = 'token=%s&chatid=%s&message=%s' % (teletoken, chatid, msg)\n    headers = {\n        'Content-Type': 'application/x-www-form-urlencoded'\n    }\n    response = requests.request(\"POST\", url, headers=headers, data=payload)\n    print(response.text) if mydebug else None\ndef full_filename(base_fn='m2ontinfosum%s.txt' % ts, root_dir='gponfiles'):",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "full_filename",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def full_filename(base_fn='m2ontinfosum%s.txt' % ts, root_dir='gponfiles'):\n    return '.\\\\%s\\\\%s' % (root_dir, base_fn)\ndef full_filename_alarm(base_fn='m2ontinfosum%s.txt' % ts, root_dir='alarmfiles'):\n    return '.\\\\%s\\\\%s' % (root_dir, base_fn)\nclass FileName:\n    def __init__(self, base_fn='m2ontinfosum%s.txt' % ts, root_dir='gponfiles'):\n        self.full_fn = '.\\\\%s\\\\%s' % (root_dir, base_fn)\n    @property\n    def full_name(self):\n        return self.full_fn",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "full_filename_alarm",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def full_filename_alarm(base_fn='m2ontinfosum%s.txt' % ts, root_dir='alarmfiles'):\n    return '.\\\\%s\\\\%s' % (root_dir, base_fn)\nclass FileName:\n    def __init__(self, base_fn='m2ontinfosum%s.txt' % ts, root_dir='gponfiles'):\n        self.full_fn = '.\\\\%s\\\\%s' % (root_dir, base_fn)\n    @property\n    def full_name(self):\n        return self.full_fn\nclass GponFileName:\n    def __init__(self, base_fn='m2ontinfosum*.txt', root_dir='gponfiles'):",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "tecent_sendmail",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def tecent_sendmail(mailbody, subject, emailaddress):\n    sender = 'liqin@ectivisecloud.com'\n    msg = MIMEMultipart()\n    msg.set_unixfrom('author')\n    msg['From'] = 'liqin@ectivisecloud.com'\n    msg['Subject'] = subject\n    msg.attach(MIMEText(mailbody, \"html\"))\n    mailserver = smtplib.SMTP_SSL('hwsmtp.exmail.qq.com', 465)\n    mailserver.ehlo()\n    mailserver.login('liqin@ectivisecloud.com', 'ESPL888espl')",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "tecent_sendmail_attachment",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def tecent_sendmail_attachment(message, subject, send_to, files=[]):\n    sender = 'liqin@ectivisecloud.com'\n    assert isinstance(files, list)\n    username = 'liqin@ectivisecloud.com'\n    password = 'ESPL888espl'\n    msg = MIMEMultipart()\n    msg['From'] = sender\n    # msg['To'] = send_to\n    msg['To'] = ' '.join(send_to)\n    msg['Date'] = formatdate(localtime=True)",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "godaddy_sendmail",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def godaddy_sendmail(mailbody, subject, emailaddress, sender='liqin@boonarthur.com'):\n    msg = MIMEMultipart()\n    msg.set_unixfrom('author')\n    msg['From'] = 'liqin@boonarthur.com'\n    msg['Subject'] = subject\n    msg.attach(MIMEText(mailbody, \"html\"))\n    mailserver = smtplib.SMTP_SSL('smtpout.secureserver.net', 465)\n    mailserver.ehlo()\n    mailserver.login('liqin@boonarthur.com', 'Il0vesingap0re')\n    mailserver.sendmail(sender, emailaddress, msg.as_string())",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "godaddy_sendmail_attachment",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def godaddy_sendmail_attachment(send_from, send_to, subject, message, files=[]):\n    \"\"\"Compose and send email with provided info and attachments.\n    Args:\n        send_from (str): from name\n        send_to (list[str]): to name(s)\n        subject (str): message title\n        message (str): message body\n        files (list[str]): list of file paths to be attached to email\n    \"\"\"\n    # assert isinstance(send_to, list)",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_dict_value",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def get_dict_value(a_dic):\n    for key, value in a_dic.items():\n        print(key, '->', value)\n    return list(map(lambda key: a_dic[key], a_dic.keys()))[0]\ndef onteq(obj1: dict, obj2: dict):\n    return obj1['id'] == obj2['id'] and obj1['port'] == obj2['port']\ndef onteq1(obj1: dict, obj2: dict):\n    return onthash(obj1) == onthash(obj2)\ndef onthash(obj1: dict):\n    return hash(('id', obj1['id'], 'port', obj1['port']))",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "onteq",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def onteq(obj1: dict, obj2: dict):\n    return obj1['id'] == obj2['id'] and obj1['port'] == obj2['port']\ndef onteq1(obj1: dict, obj2: dict):\n    return onthash(obj1) == onthash(obj2)\ndef onthash(obj1: dict):\n    return hash(('id', obj1['id'], 'port', obj1['port']))\ndef merge_ont_data(ont_data1, ont_data2):\n    \"\"\"\n    merge two ont data into one\n    :return merged ont list:",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "onteq1",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def onteq1(obj1: dict, obj2: dict):\n    return onthash(obj1) == onthash(obj2)\ndef onthash(obj1: dict):\n    return hash(('id', obj1['id'], 'port', obj1['port']))\ndef merge_ont_data(ont_data1, ont_data2):\n    \"\"\"\n    merge two ont data into one\n    :return merged ont list:\n    \"\"\"\n    data0 = [x for x in ont_data1 if x[\"status\"] == 'online']",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "onthash",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def onthash(obj1: dict):\n    return hash(('id', obj1['id'], 'port', obj1['port']))\ndef merge_ont_data(ont_data1, ont_data2):\n    \"\"\"\n    merge two ont data into one\n    :return merged ont list:\n    \"\"\"\n    data0 = [x for x in ont_data1 if x[\"status\"] == 'online']\n    data1 = [x for x in ont_data2 if x[\"status\"] == 'online']\n    data = data0 + data1",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "merge_ont_data",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def merge_ont_data(ont_data1, ont_data2):\n    \"\"\"\n    merge two ont data into one\n    :return merged ont list:\n    \"\"\"\n    data0 = [x for x in ont_data1 if x[\"status\"] == 'online']\n    data1 = [x for x in ont_data2 if x[\"status\"] == 'online']\n    data = data0 + data1\n    d = []\n    for x in ont_data1:",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "assignolt",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def assignolt(ont, olt=''):\n    ont['oltid'] = olt\n    return ont\ndef merge_ont_data_4(oltlist):\n    \"\"\"\n    merge two ont data into one\n    :return merged ont list, online ont list\n    \"\"\"\n    ont_data1 = oltlist[0][\"ont\"]\n    ont_data2 = oltlist[1][\"ont\"]",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "merge_ont_data_4",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def merge_ont_data_4(oltlist):\n    \"\"\"\n    merge two ont data into one\n    :return merged ont list, online ont list\n    \"\"\"\n    ont_data1 = oltlist[0][\"ont\"]\n    ont_data2 = oltlist[1][\"ont\"]\n    ont_data1 = list(map(lambda x: assignolt(x, '1'), ont_data1))\n    ont_data2 = list(map(lambda x: assignolt(x, '2'), ont_data2))\n    data1 = [x for x in ont_data1 if x[\"status\"] == 'online']",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "merge_ont_data_3",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def merge_ont_data_3(oltlist):\n    \"\"\"\n    merge two ont data into one\n    :return merged ont list, online ont list\n    \"\"\"\n    ont_data1 = oltlist[0][\"ont\"]\n    ont_data2 = oltlist[1][\"ont\"]\n    data0 = [x for x in ont_data1 if x[\"status\"] == 'online']\n    data1 = [x for x in ont_data2 if x[\"status\"] == 'online']\n    data = data0 + data1",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "merge_ont_data_2",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def merge_ont_data_2(ont_data1, ont_data2):\n    \"\"\"\n    merge two ont data into one\n    :return merged ont list:\n    \"\"\"\n    data0 = [x for x in ont_data1 if x[\"status\"] == 'online']\n    data1 = [x for x in ont_data2 if x[\"status\"] == 'online']\n    data = data0 + data1\n    d = []\n    for x in ont_data1:",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "remove_ont_item",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def remove_ont_item(onts=[], items=[]):\n    \"\"\"\n    remove from ont list\n    :param onts: ont list\n    :param items: ont list been removed\n    :return:\n    \"\"\"\n    for item in items:\n        for ont in onts:\n            ei = onthash(item)",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_level",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def get_level(ontnm):\n    return ontnm.split('-')[1]\ndef get_sshclient():\n    ssh = paramiko.SSHClient()\n    ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())\ndef closesession(command, ssh):\n    command.send(\"q\\n\")\n    command.send(\"y\\n\")\n    ssh.close()\ndef getsession(debug, oltip, ssh):",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_sshclient",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def get_sshclient():\n    ssh = paramiko.SSHClient()\n    ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())\ndef closesession(command, ssh):\n    command.send(\"q\\n\")\n    command.send(\"y\\n\")\n    ssh.close()\ndef getsession(debug, oltip, ssh):\n    ssh.connect(hostname=oltip, port=22, username='nmsuser2', password='ESPL888espl', compress=True)\n    ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "closesession",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def closesession(command, ssh):\n    command.send(\"q\\n\")\n    command.send(\"y\\n\")\n    ssh.close()\ndef getsession(debug, oltip, ssh):\n    ssh.connect(hostname=oltip, port=22, username='nmsuser2', password='ESPL888espl', compress=True)\n    ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())\n    print(\"Successfully logged into OLT %s\" % oltip) if debug else None\n    command = ssh.invoke_shell()\n    command.send(\"enable \\n\")",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "getsession",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def getsession(debug, oltip, ssh):\n    ssh.connect(hostname=oltip, port=22, username='nmsuser2', password='ESPL888espl', compress=True)\n    ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())\n    print(\"Successfully logged into OLT %s\" % oltip) if debug else None\n    command = ssh.invoke_shell()\n    command.send(\"enable \\n\")\n    command.send(\"scroll \\n\\n\")\n    return command\ndef generate_ont_cmds(ont_data):\n    \"\"\"",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "generate_ont_cmds",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def generate_ont_cmds(ont_data):\n    \"\"\"\n    check ont json data and generate cmd\n    :param ont_data:\n    :return merged ont list:\n    \"\"\"\n    data0 = [x for x in ont_data if x[\"status\"] == 'online']\n    cmds = []\n    for x in ont_data:\n        if x['status'] == 'offline':",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "generate_mac_cmd_list",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def generate_mac_cmd_list(ontdata1, ontdata2):\n    cmds1 = '\\n'.join(generate_ont_cmds(ontdata1))\n    textfile_write(\"m2cmds_mac_olt1.txt\", cmds1)\n    cmds2 = '\\n'.join(generate_ont_cmds(ontdata2))\n    textfile_write(\"m2cmds_mac_olt2.txt\", cmds2)\n    return cmds1, cmds2\ndef func2(ll):\n    llarr = ll.split(' ')\n    llarr1 = [x for x in llarr if len(str(x).strip()) > 0]\n    linkstate = llarr1[-2]",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "func2",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def func2(ll):\n    llarr = ll.split(' ')\n    llarr1 = [x for x in llarr if len(str(x).strip()) > 0]\n    linkstate = llarr1[-2]\n    return linkstate != '-'\ndef func1(x, lvl, svc):\n    l, s, u = x[0], x[5], x[6]\n    return x[0] == lvl and x[5] == svc and u == 'up'\ndef print_ont_ports(ont_ports: dict):\n    for port in ont_ports:",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "func1",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def func1(x, lvl, svc):\n    l, s, u = x[0], x[5], x[6]\n    return x[0] == lvl and x[5] == svc and u == 'up'\ndef print_ont_ports(ont_ports: dict):\n    for port in ont_ports:\n        for key, Value in port.items():\n            print(f\"{key} : {Value}\")\ndef get_linkstate_cmd(ont):\n    portarr = str(ont['port']).split('/')\n    cmd = 'display ont port state %s %s eth-port all' % (portarr[-1], ont['id'])",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "print_ont_ports",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def print_ont_ports(ont_ports: dict):\n    for port in ont_ports:\n        for key, Value in port.items():\n            print(f\"{key} : {Value}\")\ndef get_linkstate_cmd(ont):\n    portarr = str(ont['port']).split('/')\n    cmd = 'display ont port state %s %s eth-port all' % (portarr[-1], ont['id'])\n    return cmd\ndef generate_ontportstate_cmds(oltlist):\n    \"\"\"",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_linkstate_cmd",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def get_linkstate_cmd(ont):\n    portarr = str(ont['port']).split('/')\n    cmd = 'display ont port state %s %s eth-port all' % (portarr[-1], ont['id'])\n    return cmd\ndef generate_ontportstate_cmds(oltlist):\n    \"\"\"\n    check ont json data and generate cmd\n    :param oltlist:\n    :return:\n    \"\"\"",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "generate_ontportstate_cmds",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def generate_ontportstate_cmds(oltlist):\n    \"\"\"\n    check ont json data and generate cmd\n    :param oltlist:\n    :return:\n    \"\"\"\n    for olt in oltlist:\n        for ont in olt[\"ont\"]:\n            ont['linkstat_cmds'] = get_linkstate_cmd(ont)\ndef get_snmp_desc(ipv4='192.168.190.1', communitystr='espl888espl', oid='1.3.6.1.2.1.1.1.0', debug=True):",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_snmp_desc",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def get_snmp_desc(ipv4='192.168.190.1', communitystr='espl888espl', oid='1.3.6.1.2.1.1.1.0', debug=True):\n    print(\"snmp test ipv4=%s\" % ipv4)\n    iterator = getCmd(\n        SnmpEngine(),\n        CommunityData(communitystr),\n        UdpTransportTarget((ipv4, 161)),\n        ContextData(),\n        ObjectType(ObjectIdentity(oid)),\n    )\n    errorIndication, errorStatus, errorIndex, varBinds = next(iterator)",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "findont",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def findont(alarm, fn=\"gpon_fn\"):\n    gponjsonobj = jsonfile_load(fn)\n    params = alarm['params'].split(',')\n    f = params[0].split(' ')\n    f = f[-1]\n    s = params[1].split(' ')\n    s = s[-1]\n    p = params[2].split(' ')\n    p = p[-1]\n    d = params[3].split(' ')",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_doc",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def get_doc(ontnameportvlan_fn=''):\n    ontnmport_lines = read_csv_file(ontnameportvlan_fn)\n    return ontnmport_lines\ndef get_feb_doc():\n    ontnameportvlan_fn = r'febname_port_vlan.csv'\n    ontnmport_lines = read_csv_file(ontnameportvlan_fn)\n    return ontnmport_lines\ndef map_ontport(line, ontnm): return line['ONT Label'] == ontnm\ndef assign_ontports(oltlist):\n    \"\"\"",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_feb_doc",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def get_feb_doc():\n    ontnameportvlan_fn = r'febname_port_vlan.csv'\n    ontnmport_lines = read_csv_file(ontnameportvlan_fn)\n    return ontnmport_lines\ndef map_ontport(line, ontnm): return line['ONT Label'] == ontnm\ndef assign_ontports(oltlist):\n    \"\"\"\n    assign ont ports to the ont according to the DOC\n    with attributes of vlanid, subsys name\n    dynamic data \"status\" initialized value -",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "map_ontport",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def map_ontport(line, ontnm): return line['ONT Label'] == ontnm\ndef assign_ontports(oltlist):\n    \"\"\"\n    assign ont ports to the ont according to the DOC\n    with attributes of vlanid, subsys name\n    dynamic data \"status\" initialized value -\n    :param oltlist:\n    :return:\n    \"\"\"\n    ontnmport_lines = get_feb_doc()",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "assign_ontports",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def assign_ontports(oltlist):\n    \"\"\"\n    assign ont ports to the ont according to the DOC\n    with attributes of vlanid, subsys name\n    dynamic data \"status\" initialized value -\n    :param oltlist:\n    :return:\n    \"\"\"\n    ontnmport_lines = get_feb_doc()\n    for olt in oltlist:",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "striplist",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def striplist(mylist: list):\n    return [x for x in mylist if len(x) > 0]\ndef get_ontport_linkstate(oltlist, oltusername='root', sleeptime=3, debug=debug):\n    for olt in oltlist:\n        command, ssh = get_session_v2(ipv4=olt['ip'], un=oltusername)\n        try:\n            assert command is not None and ssh is not None\n            cmd = \"config\"\n            cmd += '\\n\\n'\n            command.send(cmd)",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_ontport_linkstate",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def get_ontport_linkstate(oltlist, oltusername='root', sleeptime=3, debug=debug):\n    for olt in oltlist:\n        command, ssh = get_session_v2(ipv4=olt['ip'], un=oltusername)\n        try:\n            assert command is not None and ssh is not None\n            cmd = \"config\"\n            cmd += '\\n\\n'\n            command.send(cmd)\n            cmd = \"interface gpon 0/1\"\n            cmd += '\\n\\n'",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "process_linkstate",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def process_linkstate(linkstate_data, ont_ports):\n    lines = linkstate_data.splitlines()\n    portstat = [x for x in lines if x.find('   display ont port state') > -1 and x.find(' eth-port all')]\n    if len(portstat) <= 0:\n        print(\"err01\", ont_ports, linkstate_data)\n        telegram_bot_sendtext(\"m2 ont update err01\", parse_mode='html')\n        return\n    index = lines.index(portstat[0])\n    _lines = lines[index + 5: index + 5 + 8]\n    for i in range(0, 8):",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_contacts",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def get_contacts(isTest=True):\n    contacts_file_fn = \"email_contacts.csv\" if not isTest else \"email_contacts_test.csv\"\n    contacts = read_file(contacts_file_fn)\n    contacts = [str.split(x)[-1] for x in contacts[1:] if x.find('#') < 0 and len(x) > 0]\n    return contacts\ndef check_socket(host, port):\n    from contextlib import closing\n    try:\n        with closing(socket.socket(socket.AF_INET, socket.SOCK_STREAM)) as sock:\n            if sock.connect_ex((host, port)) == 0:",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "check_socket",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def check_socket(host, port):\n    from contextlib import closing\n    try:\n        with closing(socket.socket(socket.AF_INET, socket.SOCK_STREAM)) as sock:\n            if sock.connect_ex((host, port)) == 0:\n                print(f\"Host {host}:{port} is open\") if debug else None\n                return True\n            else:\n                print(f\"Host {host}:{port} is not open\") if debug else None\n                return False",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_apiurl",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def get_apiurl(localhost, cloudhost, endpoint, localport=8082, cloudport=443):\n    cloudurl = f\"https://{cloudhost}\" + endpoint\n    localurl = f\"http://{cloudhost}:{localport}\" + endpoint\n    from utils_v1 import internet_ok\n    apiurllist = []\n    if check_socket('espl8082', localport):\n        espl8082 = \"http://espl8082:8082\" + endpoint\n        apiurllist.append(espl8082)\n    elif check_socket(localhost, int(localport)):\n        apiurllist.append(localurl)",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_empty_ont",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def get_empty_ont(): return jsonfile_load('files/ont_init.json')\ndef get_empty_ports():\n    portlist = []\n    for i in range(0, 8):\n        port = {\"eth_num\": i + 1,\n                \"vlanid\": '-',\n                \"system\": '-',\n                \"status\": \"-\",\n                \"traffic\": {\"in_traffic\": \"\", \"out_traffic\": \"\"},\n                \"mac_address\": []",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_empty_ports",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def get_empty_ports():\n    portlist = []\n    for i in range(0, 8):\n        port = {\"eth_num\": i + 1,\n                \"vlanid\": '-',\n                \"system\": '-',\n                \"status\": \"-\",\n                \"traffic\": {\"in_traffic\": \"\", \"out_traffic\": \"\"},\n                \"mac_address\": []\n                }",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_ont_data",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def get_ont_data(ip, dbg=True):\n    global oltusername\n    command, ssh = get_session_v2(ipv4=ip, un='nmsuser2')\n    try:\n        assert command is not None\n        assert ssh is not None\n        cmd = \"display ont info summary 0\"\n        print(\"cmd=\", cmd) if dbg else None\n        cmd += '\\n\\n'\n        command.send(cmd)",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "ont_dataget_v0927",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def ont_dataget_v0927(oltlist, sitename, debug=debug):\n    from uob_vlan import UOBVlan\n    from uob_dataClean import data_clean\n    vlans = UOBVlan(sitename)\n    # ontnmport_lines = get_doc(ontnameportvlan_fn)\n    for olt in oltlist:\n        txtdata = get_ont_data(olt[\"ip\"], dbg=debug)\n        if len(txtdata) > 0:\n            olt[\"ont\"] = data_clean(txtdata=txtdata.splitlines())\n            for ont in olt[\"ont\"]:",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "subsys_csv_fn",
+        "kind": 5,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "subsys_csv_fn = \"m2_subsystem.csv\"\ncontacts_fn = \"m2_email_contacts.csv\"\napiheaders = {\n    'Content-Type': 'application/x-www-form-urlencoded',\n    'x-api-key': 'NjQ3M2VmZGY2YjgwNGJh',\n    'Cookie': 'connect.sid=s%3AL5Oh8GP6pSzHhnCMx_xNSZQE_x-sLQ9F.mtpCtMWtpGLsm%2Fsz3BSgCxXbiKniGcB3S5zXxB9FPJQ'\n}\ntoken = 'ectivisecloudDBAuthCode%3Ab84846daf467cede0ee462d04bcd0ade'\ntimestamp_day = str(datetime.now().strftime(\"%Y%m%d\"))\ntimestamp_date = str(datetime.now().strftime(\"%Y-%m-%d\"))",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "contacts_fn",
+        "kind": 5,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "contacts_fn = \"m2_email_contacts.csv\"\napiheaders = {\n    'Content-Type': 'application/x-www-form-urlencoded',\n    'x-api-key': 'NjQ3M2VmZGY2YjgwNGJh',\n    'Cookie': 'connect.sid=s%3AL5Oh8GP6pSzHhnCMx_xNSZQE_x-sLQ9F.mtpCtMWtpGLsm%2Fsz3BSgCxXbiKniGcB3S5zXxB9FPJQ'\n}\ntoken = 'ectivisecloudDBAuthCode%3Ab84846daf467cede0ee462d04bcd0ade'\ntimestamp_day = str(datetime.now().strftime(\"%Y%m%d\"))\ntimestamp_date = str(datetime.now().strftime(\"%Y-%m-%d\"))\ntimestamp_hour = str(datetime.now().strftime(\"%Y%m%d%H\"))",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "apiheaders",
+        "kind": 5,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "apiheaders = {\n    'Content-Type': 'application/x-www-form-urlencoded',\n    'x-api-key': 'NjQ3M2VmZGY2YjgwNGJh',\n    'Cookie': 'connect.sid=s%3AL5Oh8GP6pSzHhnCMx_xNSZQE_x-sLQ9F.mtpCtMWtpGLsm%2Fsz3BSgCxXbiKniGcB3S5zXxB9FPJQ'\n}\ntoken = 'ectivisecloudDBAuthCode%3Ab84846daf467cede0ee462d04bcd0ade'\ntimestamp_day = str(datetime.now().strftime(\"%Y%m%d\"))\ntimestamp_date = str(datetime.now().strftime(\"%Y-%m-%d\"))\ntimestamp_hour = str(datetime.now().strftime(\"%Y%m%d%H\"))\ndtime = str(datetime.now())",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "token",
+        "kind": 5,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "token = 'ectivisecloudDBAuthCode%3Ab84846daf467cede0ee462d04bcd0ade'\ntimestamp_day = str(datetime.now().strftime(\"%Y%m%d\"))\ntimestamp_date = str(datetime.now().strftime(\"%Y-%m-%d\"))\ntimestamp_hour = str(datetime.now().strftime(\"%Y%m%d%H\"))\ndtime = str(datetime.now())\ndtime = dtime[:-7]\ncmd_fn = \"ont_cmds_all.txt\"\nip_fn = \"ont_ip_all.txt\"\nont_env_fn = \"ont_env.json\"\nalllog_fn = \"all.log\"",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "timestamp_day",
+        "kind": 5,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "timestamp_day = str(datetime.now().strftime(\"%Y%m%d\"))\ntimestamp_date = str(datetime.now().strftime(\"%Y-%m-%d\"))\ntimestamp_hour = str(datetime.now().strftime(\"%Y%m%d%H\"))\ndtime = str(datetime.now())\ndtime = dtime[:-7]\ncmd_fn = \"ont_cmds_all.txt\"\nip_fn = \"ont_ip_all.txt\"\nont_env_fn = \"ont_env.json\"\nalllog_fn = \"all.log\"\noutput_fn = \"ontinfo_test_ovh\"",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "timestamp_date",
+        "kind": 5,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "timestamp_date = str(datetime.now().strftime(\"%Y-%m-%d\"))\ntimestamp_hour = str(datetime.now().strftime(\"%Y%m%d%H\"))\ndtime = str(datetime.now())\ndtime = dtime[:-7]\ncmd_fn = \"ont_cmds_all.txt\"\nip_fn = \"ont_ip_all.txt\"\nont_env_fn = \"ont_env.json\"\nalllog_fn = \"all.log\"\noutput_fn = \"ontinfo_test_ovh\"\nontinfo_ovh_fn = \"ontinfo_ovh\"",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "timestamp_hour",
+        "kind": 5,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "timestamp_hour = str(datetime.now().strftime(\"%Y%m%d%H\"))\ndtime = str(datetime.now())\ndtime = dtime[:-7]\ncmd_fn = \"ont_cmds_all.txt\"\nip_fn = \"ont_ip_all.txt\"\nont_env_fn = \"ont_env.json\"\nalllog_fn = \"all.log\"\noutput_fn = \"ontinfo_test_ovh\"\nontinfo_ovh_fn = \"ontinfo_ovh\"\ndebug = True",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "dtime",
+        "kind": 5,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "dtime = str(datetime.now())\ndtime = dtime[:-7]\ncmd_fn = \"ont_cmds_all.txt\"\nip_fn = \"ont_ip_all.txt\"\nont_env_fn = \"ont_env.json\"\nalllog_fn = \"all.log\"\noutput_fn = \"ontinfo_test_ovh\"\nontinfo_ovh_fn = \"ontinfo_ovh\"\ndebug = True\nset_ip_name = False",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "dtime",
+        "kind": 5,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "dtime = dtime[:-7]\ncmd_fn = \"ont_cmds_all.txt\"\nip_fn = \"ont_ip_all.txt\"\nont_env_fn = \"ont_env.json\"\nalllog_fn = \"all.log\"\noutput_fn = \"ontinfo_test_ovh\"\nontinfo_ovh_fn = \"ontinfo_ovh\"\ndebug = True\nset_ip_name = False\ncheckPing = True",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "cmd_fn",
+        "kind": 5,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "cmd_fn = \"ont_cmds_all.txt\"\nip_fn = \"ont_ip_all.txt\"\nont_env_fn = \"ont_env.json\"\nalllog_fn = \"all.log\"\noutput_fn = \"ontinfo_test_ovh\"\nontinfo_ovh_fn = \"ontinfo_ovh\"\ndebug = True\nset_ip_name = False\ncheckPing = True\napendFile = False",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "ip_fn",
+        "kind": 5,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "ip_fn = \"ont_ip_all.txt\"\nont_env_fn = \"ont_env.json\"\nalllog_fn = \"all.log\"\noutput_fn = \"ontinfo_test_ovh\"\nontinfo_ovh_fn = \"ontinfo_ovh\"\ndebug = True\nset_ip_name = False\ncheckPing = True\napendFile = False\nip_only = False",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "ont_env_fn",
+        "kind": 5,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "ont_env_fn = \"ont_env.json\"\nalllog_fn = \"all.log\"\noutput_fn = \"ontinfo_test_ovh\"\nontinfo_ovh_fn = \"ontinfo_ovh\"\ndebug = True\nset_ip_name = False\ncheckPing = True\napendFile = False\nip_only = False\ndate_time = str(datetime.now().strftime(\"%Y-%m-%d\"))",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "alllog_fn",
+        "kind": 5,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "alllog_fn = \"all.log\"\noutput_fn = \"ontinfo_test_ovh\"\nontinfo_ovh_fn = \"ontinfo_ovh\"\ndebug = True\nset_ip_name = False\ncheckPing = True\napendFile = False\nip_only = False\ndate_time = str(datetime.now().strftime(\"%Y-%m-%d\"))\ndate_time1 = str(datetime.now().strftime(\"%Y%m%d\"))",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "output_fn",
+        "kind": 5,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "output_fn = \"ontinfo_test_ovh\"\nontinfo_ovh_fn = \"ontinfo_ovh\"\ndebug = True\nset_ip_name = False\ncheckPing = True\napendFile = False\nip_only = False\ndate_time = str(datetime.now().strftime(\"%Y-%m-%d\"))\ndate_time1 = str(datetime.now().strftime(\"%Y%m%d\"))\ndate_time_h = str(datetime.now().strftime(\"%Y-%m-%d %H:%M\"))",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "ontinfo_ovh_fn",
+        "kind": 5,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "ontinfo_ovh_fn = \"ontinfo_ovh\"\ndebug = True\nset_ip_name = False\ncheckPing = True\napendFile = False\nip_only = False\ndate_time = str(datetime.now().strftime(\"%Y-%m-%d\"))\ndate_time1 = str(datetime.now().strftime(\"%Y%m%d\"))\ndate_time_h = str(datetime.now().strftime(\"%Y-%m-%d %H:%M\"))\ntime_stamp = str(datetime.now().strftime(\"%Y%m%d%H%m\"))",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "debug",
+        "kind": 5,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "debug = True\nset_ip_name = False\ncheckPing = True\napendFile = False\nip_only = False\ndate_time = str(datetime.now().strftime(\"%Y-%m-%d\"))\ndate_time1 = str(datetime.now().strftime(\"%Y%m%d\"))\ndate_time_h = str(datetime.now().strftime(\"%Y-%m-%d %H:%M\"))\ntime_stamp = str(datetime.now().strftime(\"%Y%m%d%H%m\"))\nts = calendar.timegm(time.gmtime())",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "set_ip_name",
+        "kind": 5,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "set_ip_name = False\ncheckPing = True\napendFile = False\nip_only = False\ndate_time = str(datetime.now().strftime(\"%Y-%m-%d\"))\ndate_time1 = str(datetime.now().strftime(\"%Y%m%d\"))\ndate_time_h = str(datetime.now().strftime(\"%Y-%m-%d %H:%M\"))\ntime_stamp = str(datetime.now().strftime(\"%Y%m%d%H%m\"))\nts = calendar.timegm(time.gmtime())\ndate_time_m = str(datetime.now().strftime(\"%Y-%m-%d %H:%M:%S\"))",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "checkPing",
+        "kind": 5,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "checkPing = True\napendFile = False\nip_only = False\ndate_time = str(datetime.now().strftime(\"%Y-%m-%d\"))\ndate_time1 = str(datetime.now().strftime(\"%Y%m%d\"))\ndate_time_h = str(datetime.now().strftime(\"%Y-%m-%d %H:%M\"))\ntime_stamp = str(datetime.now().strftime(\"%Y%m%d%H%m\"))\nts = calendar.timegm(time.gmtime())\ndate_time_m = str(datetime.now().strftime(\"%Y-%m-%d %H:%M:%S\"))\ngponbasefn = \"m2ontinfosum*.txt\"",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "apendFile",
+        "kind": 5,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "apendFile = False\nip_only = False\ndate_time = str(datetime.now().strftime(\"%Y-%m-%d\"))\ndate_time1 = str(datetime.now().strftime(\"%Y%m%d\"))\ndate_time_h = str(datetime.now().strftime(\"%Y-%m-%d %H:%M\"))\ntime_stamp = str(datetime.now().strftime(\"%Y%m%d%H%m\"))\nts = calendar.timegm(time.gmtime())\ndate_time_m = str(datetime.now().strftime(\"%Y-%m-%d %H:%M:%S\"))\ngponbasefn = \"m2ontinfosum*.txt\"\ngponrootdir = \"gponfiles\"",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "ip_only",
+        "kind": 5,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "ip_only = False\ndate_time = str(datetime.now().strftime(\"%Y-%m-%d\"))\ndate_time1 = str(datetime.now().strftime(\"%Y%m%d\"))\ndate_time_h = str(datetime.now().strftime(\"%Y-%m-%d %H:%M\"))\ntime_stamp = str(datetime.now().strftime(\"%Y%m%d%H%m\"))\nts = calendar.timegm(time.gmtime())\ndate_time_m = str(datetime.now().strftime(\"%Y-%m-%d %H:%M:%S\"))\ngponbasefn = \"m2ontinfosum*.txt\"\ngponrootdir = \"gponfiles\"\nlogging.basicConfig(level=logging.DEBUG,",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "date_time",
+        "kind": 5,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "date_time = str(datetime.now().strftime(\"%Y-%m-%d\"))\ndate_time1 = str(datetime.now().strftime(\"%Y%m%d\"))\ndate_time_h = str(datetime.now().strftime(\"%Y-%m-%d %H:%M\"))\ntime_stamp = str(datetime.now().strftime(\"%Y%m%d%H%m\"))\nts = calendar.timegm(time.gmtime())\ndate_time_m = str(datetime.now().strftime(\"%Y-%m-%d %H:%M:%S\"))\ngponbasefn = \"m2ontinfosum*.txt\"\ngponrootdir = \"gponfiles\"\nlogging.basicConfig(level=logging.DEBUG,\n                    filename=alllog_fn,",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "date_time1",
+        "kind": 5,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "date_time1 = str(datetime.now().strftime(\"%Y%m%d\"))\ndate_time_h = str(datetime.now().strftime(\"%Y-%m-%d %H:%M\"))\ntime_stamp = str(datetime.now().strftime(\"%Y%m%d%H%m\"))\nts = calendar.timegm(time.gmtime())\ndate_time_m = str(datetime.now().strftime(\"%Y-%m-%d %H:%M:%S\"))\ngponbasefn = \"m2ontinfosum*.txt\"\ngponrootdir = \"gponfiles\"\nlogging.basicConfig(level=logging.DEBUG,\n                    filename=alllog_fn,\n                    # filename='ontinfo_ovh.log',",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "date_time_h",
+        "kind": 5,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "date_time_h = str(datetime.now().strftime(\"%Y-%m-%d %H:%M\"))\ntime_stamp = str(datetime.now().strftime(\"%Y%m%d%H%m\"))\nts = calendar.timegm(time.gmtime())\ndate_time_m = str(datetime.now().strftime(\"%Y-%m-%d %H:%M:%S\"))\ngponbasefn = \"m2ontinfosum*.txt\"\ngponrootdir = \"gponfiles\"\nlogging.basicConfig(level=logging.DEBUG,\n                    filename=alllog_fn,\n                    # filename='ontinfo_ovh.log',\n                    filemode='a',",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "time_stamp",
+        "kind": 5,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "time_stamp = str(datetime.now().strftime(\"%Y%m%d%H%m\"))\nts = calendar.timegm(time.gmtime())\ndate_time_m = str(datetime.now().strftime(\"%Y-%m-%d %H:%M:%S\"))\ngponbasefn = \"m2ontinfosum*.txt\"\ngponrootdir = \"gponfiles\"\nlogging.basicConfig(level=logging.DEBUG,\n                    filename=alllog_fn,\n                    # filename='ontinfo_ovh.log',\n                    filemode='a',\n                    format=",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "ts",
+        "kind": 5,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "ts = calendar.timegm(time.gmtime())\ndate_time_m = str(datetime.now().strftime(\"%Y-%m-%d %H:%M:%S\"))\ngponbasefn = \"m2ontinfosum*.txt\"\ngponrootdir = \"gponfiles\"\nlogging.basicConfig(level=logging.DEBUG,\n                    filename=alllog_fn,\n                    # filename='ontinfo_ovh.log',\n                    filemode='a',\n                    format=\n                    '%(asctime)s - %(pathname)s[line:%(lineno)d] - %(levelname)s: %(message)s'",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "date_time_m",
+        "kind": 5,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "date_time_m = str(datetime.now().strftime(\"%Y-%m-%d %H:%M:%S\"))\ngponbasefn = \"m2ontinfosum*.txt\"\ngponrootdir = \"gponfiles\"\nlogging.basicConfig(level=logging.DEBUG,\n                    filename=alllog_fn,\n                    # filename='ontinfo_ovh.log',\n                    filemode='a',\n                    format=\n                    '%(asctime)s - %(pathname)s[line:%(lineno)d] - %(levelname)s: %(message)s'\n                    )",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "gponbasefn",
+        "kind": 5,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "gponbasefn = \"m2ontinfosum*.txt\"\ngponrootdir = \"gponfiles\"\nlogging.basicConfig(level=logging.DEBUG,\n                    filename=alllog_fn,\n                    # filename='ontinfo_ovh.log',\n                    filemode='a',\n                    format=\n                    '%(asctime)s - %(pathname)s[line:%(lineno)d] - %(levelname)s: %(message)s'\n                    )\ndef pingOk(sHost):",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "gponrootdir",
+        "kind": 5,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "gponrootdir = \"gponfiles\"\nlogging.basicConfig(level=logging.DEBUG,\n                    filename=alllog_fn,\n                    # filename='ontinfo_ovh.log',\n                    filemode='a',\n                    format=\n                    '%(asctime)s - %(pathname)s[line:%(lineno)d] - %(levelname)s: %(message)s'\n                    )\ndef pingOk(sHost):\n    import subprocess, platform",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "alarm_rx_dict",
+        "kind": 5,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "alarm_rx_dict = {\n    'alarmid': re.compile(r'ALARM \\d+.*'),\n    'alarmnm': re.compile(r'ALARM NAME.*'),\n    'desc': re.compile(r'DESCRIPTION.*'),\n    'params': re.compile(r'PARAMETERS  .*'),\n    'cause': re.compile(r'CAUSE  .*'),\n    'advice': re.compile(r'ADVICE  .*'),\n    'sr': re.compile(r'SRVEFF  .*'),\n    'emu': re.compile(r'EMU.*'),\n    'end': re.compile(r'END.*'),",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "testmessage",
+        "kind": 5,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "testmessage = \"\"\"\n*bold \\*text*\n_italic \\*text_\n__underline__\n~strikethrough~\n*bold _italic bold ~italic bold strikethrough~ __underline italic bold___ bold*\n[inline URL](http://www.example.com/)\n[inline mention of a user](tg://user?id=123456789)\n`inline fixed-width code`\n```",
+        "detail": "utils",
+        "documentation": {}
+    }
+]
